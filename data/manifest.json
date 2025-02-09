@@ -28,31 +28,12 @@
           "subject": "Pathology",
           "quizzes": [
             {
-              "title": "General Pathology",
-              "path": "data/first_year/pathology/lec1_general_pathology.json"
-            }
-          ]
-        },
-        {
-          "subject": "Pathology",
-          "quizzes": [
+              "title": "Introduction to Pathology",
+              "path": "data/first_year/pathology/lec1_introduction_to_pathology.json"
+            },
             {
-              "title": "General Pathology",
-              "path": "data/first_year/pathology/lec1_general_pathology.json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "year": "Second Year",
-      "subjects": [
-        {
-          "subject": "Pharmacology",
-          "quizzes": [
-            {
-              "title": "Advanced Pharmacology",
-              "path": "data/second_year/pharmacology/lec1_advanced_pharmacology.json"
+              "title": "Cellular Adaptation",
+              "path": "data/first_year/pathology/lec2_cellular_adaptation.json"
             }
           ]
         }
