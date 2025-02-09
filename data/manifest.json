@@ -29,7 +29,7 @@
           "quizzes": [
             {
               "title": "Introduction to Pathology",
-              "path": "data/first_year/pathology/lec1_introduction_to_pathology.json"
+              "path": "data/first_year/pharmacology/lec1_drug_absorption.json"
             },
             {
               "title": "Cellular Adaptation",
