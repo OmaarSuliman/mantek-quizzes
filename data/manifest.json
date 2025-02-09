@@ -1,0 +1,45 @@
+{
+  "years": [
+    {
+      "year": "First Year",
+      "subjects": [
+        {
+          "subject": "Pharmacology",
+          "quizzes": [
+            {
+              "title": "Drug Absorption",
+              "path": "data/first_year/pharmacology/lec1_drug_absorption.json"
+            },
+            {
+              "title": "Drug Distribution",
+              "path": "data/first_year/pharmacology/lec2_drug_distribution.json"
+            }
+          ]
+        },
+        {
+          "subject": "Pathology",
+          "quizzes": [
+            {
+              "title": "General Pathology",
+              "path": "data/first_year/pathology/lec1_general_pathology.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Second Year",
+      "subjects": [
+        {
+          "subject": "Pharmacology",
+          "quizzes": [
+            {
+              "title": "Advanced Pharmacology",
+              "path": "data/second_year/pharmacology/lec1_advanced_pharmacology.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

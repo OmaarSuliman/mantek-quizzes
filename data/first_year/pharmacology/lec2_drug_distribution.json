@@ -1,0 +1,265 @@
+{
+  "title": "Drug Distribution",
+  "questions": [
+    {
+      "question": "What is drug distribution?",
+      "options": [
+        "Elimination of drugs from the body",
+        "Transfer of drugs from the bloodstream to tissues",
+        "Metabolism of drugs",
+        "Absorption of drugs"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following factors affects drug distribution?",
+      "options": [
+        "Plasma protein binding",
+        "Tissue permeability",
+        "Blood flow to tissues",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which type of drug is more likely to cross the blood-brain barrier?",
+      "options": [
+        "Highly ionized drugs",
+        "Large molecular weight drugs",
+        "Lipophilic drugs",
+        "Protein-bound drugs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the primary determinant of a drug’s ability to distribute into tissues?",
+      "options": [
+        "Drug solubility",
+        "First-pass metabolism",
+        "Renal clearance",
+        "Drug excretion rate"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which plasma protein is most commonly involved in drug binding?",
+      "options": [
+        "Globulin",
+        "Fibrinogen",
+        "Albumin",
+        "Collagen"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the significance of plasma protein binding?",
+      "options": [
+        "It enhances drug elimination",
+        "It prolongs drug half-life",
+        "It decreases drug penetration into tissues",
+        "Both B and C"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following factors decreases drug distribution?",
+      "options": [
+        "High lipid solubility",
+        "Tissue binding",
+        "High plasma protein binding",
+        "Increased blood flow"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which organ receives the highest proportion of drug in the first phase of distribution?",
+      "options": [
+        "Muscles",
+        "Brain",
+        "Liver",
+        "Adipose tissue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which factor increases the volume of distribution (Vd)?",
+      "options": [
+        "High plasma protein binding",
+        "High tissue binding",
+        "Large molecular size",
+        "Water solubility"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Drugs with a high volume of distribution (Vd) are characterized by:",
+      "options": [
+        "Low lipid solubility",
+        "High plasma protein binding",
+        "High tissue uptake",
+        "Rapid renal excretion"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Why is dialysis ineffective for drugs with high Vd?",
+      "options": [
+        "They are retained in plasma",
+        "They are highly bound to tissues",
+        "They have a high rate of metabolism",
+        "They have a short half-life"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which drug is known to deposit in bones and teeth due to calcium chelation?",
+      "options": [
+        "Digoxin",
+        "Tetracycline",
+        "Aspirin",
+        "Morphine"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following drugs accumulates in the liver?",
+      "options": [
+        "Chloroquine",
+        "Aspirin",
+        "Ciprofloxacin",
+        "Insulin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is true regarding blood-brain barrier (BBB) penetration?",
+      "options": [
+        "Lipophilic drugs cross freely",
+        "All drugs can cross BBB",
+        "Quaternary ammonium compounds cross easily",
+        "Plasma protein binding enhances BBB penetration"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Why can't dopamine cross the blood-brain barrier?",
+      "options": [
+        "It is highly lipophilic",
+        "It is highly ionized",
+        "It binds strongly to plasma proteins",
+        "It has a small molecular weight"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the primary route of drug transfer across the placenta?",
+      "options": [
+        "Facilitated diffusion",
+        "Active transport",
+        "Simple diffusion",
+        "Endocytosis"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which drug is associated with fetal malformations when used in early pregnancy?",
+      "options": [
+        "Paracetamol",
+        "Thalidomide",
+        "Ibuprofen",
+        "Metformin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What effect does inflammation have on drug penetration into the central nervous system (CNS)?",
+      "options": [
+        "It decreases drug penetration",
+        "It increases drug penetration",
+        "It has no effect",
+        "It increases plasma protein binding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which drug can cause neonatal hypoglycemia when administered to a pregnant woman?",
+      "options": [
+        "Oral hypoglycemics",
+        "Beta blockers",
+        "ACE inhibitors",
+        "Loop diuretics"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the significance of tissue binding in drug distribution?",
+      "options": [
+        "It reduces drug clearance",
+        "It increases drug half-life",
+        "It affects drug toxicity",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which condition may result in lower plasma protein binding of drugs?",
+      "options": [
+        "Liver disease",
+        "Obesity",
+        "Renal failure",
+        "Pregnancy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following decreases drug passage through the placenta?",
+      "options": [
+        "Higher molecular weight",
+        "High lipid solubility",
+        "Small molecular size",
+        "Unionized drug state"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the clinical significance of the volume of distribution (Vd)?",
+      "options": [
+        "It helps determine the appropriate loading dose",
+        "It affects drug clearance",
+        "It determines the drug’s half-life",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following drugs is expected to have a small volume of distribution?",
+      "options": [
+        "Warfarin",
+        "Digoxin",
+        "Chloroquine",
+        "Lidocaine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following drugs crosses the blood-brain barrier efficiently?",
+      "options": [
+        "Morphine",
+        "Penicillin",
+        "Heparin",
+        "Insulin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A patient with liver failure is more likely to experience increased drug effects due to:",
+      "options": [
+        "Increased metabolism",
+        "Decreased plasma protein levels",
+        "Increased renal clearance",
+        "Reduced absorption"
+      ],
+      "correct": 1
+    }
+  ]
+}
