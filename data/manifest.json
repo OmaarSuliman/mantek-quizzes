@@ -13,6 +13,10 @@
             {
               "title": "Drug Distribution",
               "path": "data/first_year/pharmacology/lec2_drug_distribution.json"
+            },
+            {
+              "title": "Drug Metabolism",
+              "path": "data/first_year/pharmacology/lec2_drug_metabolism.json"
             }
           ]
         },
