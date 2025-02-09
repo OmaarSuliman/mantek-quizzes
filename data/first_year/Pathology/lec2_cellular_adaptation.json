@@ -1,0 +1,405 @@
+{
+    "title": "Cellular Adaptation",
+    "questions": [
+        {
+            "question": "What is the definition of cell injury?",
+            "options": [
+                "A change in the cell due to external and internal environmental factors",
+                "A complete loss of cell function",
+                "A genetic mutation",
+                "A reversible process"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which of the following is a cause of cell injury?",
+            "options": [
+                "Proper nutrition",
+                "Hypoxia",
+                "Normal oxygen levels",
+                "Balanced pH"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of these is a common cause of hypoxia?",
+            "options": [
+                "Increased oxygen carrying capacity",
+                "Arterial occlusion",
+                "Improved circulation",
+                "Increased metabolism"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is NOT a mechanism of cell injury?",
+            "options": [
+                "Loss of cell membrane integrity",
+                "Disruption of ATP production",
+                "Increased cell proliferation",
+                "Damage to genetic material"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is a form of cellular adaptation?",
+            "options": [
+                "Necrosis",
+                "Hypertrophy",
+                "Apoptosis",
+                "Autophagy"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is atrophy?",
+            "options": [
+                "Increase in cell size",
+                "Increase in cell number",
+                "Decrease in cell size or number",
+                "Change in cell type"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is an example of physiological atrophy?",
+            "options": [
+                "Thymus shrinkage",
+                "Muscle loss in a paralyzed limb",
+                "Loss of neurons due to stroke",
+                "Bone loss in osteoporosis"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "What is hypertrophy?",
+            "options": [
+                "Increase in cell number",
+                "Increase in cell size",
+                "Decrease in organ size",
+                "A cancerous growth"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is a cause of pathological hypertrophy?",
+            "options": [
+                "Regular exercise",
+                "Mitral stenosis",
+                "Lung expansion",
+                "Puberty"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following best describes metaplasia?",
+            "options": [
+                "An increase in cell number",
+                "A decrease in cell size",
+                "A reversible change where one cell type is replaced by another",
+                "A permanent mutation in DNA"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What is the definition of cell injury?",
+            "options": [
+                "A change in the cell due to external and internal environmental factors",
+                "A complete loss of cell function",
+                "A genetic mutation",
+                "A reversible process"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which of the following is a cause of cell injury?",
+            "options": [
+                "Proper nutrition",
+                "Hypoxia",
+                "Normal oxygen levels",
+                "Balanced pH"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of these is a common cause of hypoxia?",
+            "options": [
+                "Increased oxygen carrying capacity",
+                "Arterial occlusion",
+                "Improved circulation",
+                "Increased metabolism"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is NOT a mechanism of cell injury?",
+            "options": [
+                "Loss of cell membrane integrity",
+                "Disruption of ATP production",
+                "Increased cell proliferation",
+                "Damage to genetic material"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is a form of cellular adaptation?",
+            "options": [
+                "Necrosis",
+                "Hypertrophy",
+                "Apoptosis",
+                "Autophagy"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is atrophy?",
+            "options": [
+                "Increase in cell size",
+                "Increase in cell number",
+                "Decrease in cell size or number",
+                "Change in cell type"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is an example of physiological atrophy?",
+            "options": [
+                "Thymus shrinkage",
+                "Muscle loss in a paralyzed limb",
+                "Loss of neurons due to stroke",
+                "Bone loss in osteoporosis"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "What is hypertrophy?",
+            "options": [
+                "Increase in cell number",
+                "Increase in cell size",
+                "Decrease in organ size",
+                "A cancerous growth"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is a cause of pathological hypertrophy?",
+            "options": [
+                "Regular exercise",
+                "Mitral stenosis",
+                "Lung expansion",
+                "Puberty"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following best describes metaplasia?",
+            "options": [
+                "An increase in cell number",
+                "A decrease in cell size",
+                "A reversible change where one cell type is replaced by another",
+                "A permanent mutation in DNA"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What is the definition of cell injury?",
+            "options": [
+                "A change in the cell due to external and internal environmental factors",
+                "A complete loss of cell function",
+                "A genetic mutation",
+                "A reversible process"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which of the following is a cause of cell injury?",
+            "options": [
+                "Proper nutrition",
+                "Hypoxia",
+                "Normal oxygen levels",
+                "Balanced pH"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of these is a common cause of hypoxia?",
+            "options": [
+                "Increased oxygen carrying capacity",
+                "Arterial occlusion",
+                "Improved circulation",
+                "Increased metabolism"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is NOT a mechanism of cell injury?",
+            "options": [
+                "Loss of cell membrane integrity",
+                "Disruption of ATP production",
+                "Increased cell proliferation",
+                "Damage to genetic material"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is a form of cellular adaptation?",
+            "options": [
+                "Necrosis",
+                "Hypertrophy",
+                "Apoptosis",
+                "Autophagy"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is atrophy?",
+            "options": [
+                "Increase in cell size",
+                "Increase in cell number",
+                "Decrease in cell size or number",
+                "Change in cell type"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is an example of physiological atrophy?",
+            "options": [
+                "Thymus shrinkage",
+                "Muscle loss in a paralyzed limb",
+                "Loss of neurons due to stroke",
+                "Bone loss in osteoporosis"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "What is hypertrophy?",
+            "options": [
+                "Increase in cell number",
+                "Increase in cell size",
+                "Decrease in organ size",
+                "A cancerous growth"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is a cause of pathological hypertrophy?",
+            "options": [
+                "Regular exercise",
+                "Mitral stenosis",
+                "Lung expansion",
+                "Puberty"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following best describes metaplasia?",
+            "options": [
+                "An increase in cell number",
+                "A decrease in cell size",
+                "A reversible change where one cell type is replaced by another",
+                "A permanent mutation in DNA"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What is the definition of cell injury?",
+            "options": [
+                "A change in the cell due to external and internal environmental factors",
+                "A complete loss of cell function",
+                "A genetic mutation",
+                "A reversible process"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which of the following is a cause of cell injury?",
+            "options": [
+                "Proper nutrition",
+                "Hypoxia",
+                "Normal oxygen levels",
+                "Balanced pH"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of these is a common cause of hypoxia?",
+            "options": [
+                "Increased oxygen carrying capacity",
+                "Arterial occlusion",
+                "Improved circulation",
+                "Increased metabolism"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is NOT a mechanism of cell injury?",
+            "options": [
+                "Loss of cell membrane integrity",
+                "Disruption of ATP production",
+                "Increased cell proliferation",
+                "Damage to genetic material"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is a form of cellular adaptation?",
+            "options": [
+                "Necrosis",
+                "Hypertrophy",
+                "Apoptosis",
+                "Autophagy"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is atrophy?",
+            "options": [
+                "Increase in cell size",
+                "Increase in cell number",
+                "Decrease in cell size or number",
+                "Change in cell type"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of the following is an example of physiological atrophy?",
+            "options": [
+                "Thymus shrinkage",
+                "Muscle loss in a paralyzed limb",
+                "Loss of neurons due to stroke",
+                "Bone loss in osteoporosis"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "What is hypertrophy?",
+            "options": [
+                "Increase in cell number",
+                "Increase in cell size",
+                "Decrease in organ size",
+                "A cancerous growth"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following is a cause of pathological hypertrophy?",
+            "options": [
+                "Regular exercise",
+                "Mitral stenosis",
+                "Lung expansion",
+                "Puberty"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which of the following best describes metaplasia?",
+            "options": [
+                "An increase in cell number",
+                "A decrease in cell size",
+                "A reversible change where one cell type is replaced by another",
+                "A permanent mutation in DNA"
+            ],
+            "correct": 2
+        }
+    ]
+}
