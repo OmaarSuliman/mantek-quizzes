@@ -17,6 +17,19 @@
             {
               "title": "Drug Metabolism",
               "path": "data/first_year/pharmacology/lec3_drug_metabolism.json"
+            },
+            {
+              "title": "Drug Excretion",
+              "path": "data/first_year/pharmacology/lec4_drug_excretion.json"
+            }
+          ]
+        },
+        {
+          "subject": "Pathology",
+          "quizzes": [
+            {
+              "title": "General Pathology",
+              "path": "data/first_year/pathology/lec1_general_pathology.json"
             }
           ]
         },
