@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lecture Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header id="header">
+    <div class="logo">
+      <a href="https://mantek-med.vercel.app/">
+        <img src="Assets/mantek.svg" alt="Logo">
+      </a>
+    </div>
+    <div class="title" id="lecture-title">Lecture Title</div>
+    <!-- Toggle switch -->
+    <label class="toggle-switch">
+      <input type="checkbox" id="theme-toggle">
+      <span class="slider">
+        <span class="icon icon-sun">
+          <img src="Assets/sun.svg" alt="Sun">
+        </span>
+        <span class="icon icon-moon">
+          <img src="Assets/moon.svg" alt="Moon">
+        </span>
+        <span class="knob"></span>
+      </span>
+    </label>
+  </header>
+
+  <main id="poll-container">
+    <!-- Quiz questions will be injected here -->
+  </main>
+
+  <!-- Display last score if available -->
+  <div id="last-score"></div>
+
+  <!-- Modal for quiz results -->
+  <div class="modal" id="result-modal">
+    <div class="modal-content" id="modal-content">
+      <!-- Result content inserted dynamically -->
+    </div>
+  </div>
+
+  <footer>
+    &copy; <span id="current-year"></span> khomod inc. All rights reserved.
+  </footer>
+
+  <!-- Container for confetti (dynamically added) -->
+  <div id="confetti-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
