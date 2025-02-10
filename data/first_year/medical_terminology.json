@@ -1,0 +1,505 @@
+{
+  "title": "Medical Terminology",
+  "questions": [
+    {
+      "question": "What does the suffix '-itis' indicate?",
+      "options": [
+        "Tumor",
+        "Inflammation",
+        "Surgical removal",
+        "Blood condition"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which prefix means 'slow'?",
+      "options": [
+        "Tachy-",
+        "Brady-",
+        "Hyper-",
+        "Hypo-"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does the prefix 'hypo-' mean?",
+      "options": [
+        "Above normal",
+        "Below normal",
+        "Fast",
+        "Slow"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does the prefix 'hyper-' mean?",
+      "options": [
+        "Below normal",
+        "Above normal",
+        "Inflammation",
+        "Removal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does the suffix '-ectomy' mean?",
+      "options": [
+        "Surgical removal",
+        "Inflammation",
+        "Examination",
+        "Formation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does the suffix '-otomy' indicate?",
+      "options": [
+        "Incision",
+        "Disease",
+        "Inflammation",
+        "Observation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which suffix denotes inflammation?",
+      "options": [
+        "-itis",
+        "-osis",
+        "-pathy",
+        "-oma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which suffix is used to denote a tumor?",
+      "options": [
+        "-oma",
+        "-ectomy",
+        "-itis",
+        "-algia"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does the suffix '-pnea' refer to?",
+      "options": [
+        "Breathing",
+        "Heart",
+        "Blood",
+        "Pain"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does the suffix '-edema' indicate?",
+      "options": [
+        "Swelling",
+        "Disease",
+        "Surgical removal",
+        "Abnormality"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which prefix refers to 'vessel'?",
+      "options": [
+        "Angio-",
+        "Neuro-",
+        "Cardio-",
+        "Hepato-"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which root word means 'heart'?",
+      "options": [
+        "Neuro",
+        "Cardio",
+        "Hepato",
+        "Gastro"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which root word means 'liver'?",
+      "options": [
+        "Neuro",
+        "Hepato",
+        "Cardio",
+        "Renal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which root word means 'kidney'?",
+      "options": [
+        "Nephro",
+        "Cardio",
+        "Gastro",
+        "Chole"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which root word refers to 'stomach'?",
+      "options": [
+        "Gastr/o",
+        "Hepat/o",
+        "Nephr/o",
+        "Cardi/o"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which root word means 'intestine'?",
+      "options": [
+        "Enter/o",
+        "Nephr/o",
+        "Chol/o",
+        "Hepat/o"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'myocarditis' mean?",
+      "options": [
+        "Inflammation of the heart's inner lining",
+        "Inflammation of the heart muscle",
+        "Enlargement of the heart",
+        "Surgical removal of heart tissue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'pericarditis' mean?",
+      "options": [
+        "Inflammation of the inner layer of the heart",
+        "Inflammation of the heart muscle",
+        "Inflammation of the outer layer of the heart",
+        "Enlargement of the heart"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does 'endocarditis' mean?",
+      "options": [
+        "Inflammation of the outer layer of the heart",
+        "Inflammation of the inner lining of the heart",
+        "Enlargement of the heart",
+        "Heart attack"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'cardiomyopathy' refer to?",
+      "options": [
+        "Inflammation of the heart",
+        "Damage to the heart muscle",
+        "Enlargement of the heart",
+        "Surgical removal of heart tissue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'cardiomegaly' mean?",
+      "options": [
+        "Inflammation of the heart",
+        "Damage to the heart muscle",
+        "Enlargement of the heart",
+        "Surgical repair of the heart"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does 'tracheotomy' mean?",
+      "options": [
+        "Surgical removal of the trachea",
+        "Temporary opening in the trachea",
+        "Permanent opening in the trachea",
+        "Inflammation of the trachea"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'tracheostomy' mean?",
+      "options": [
+        "Temporary opening in the trachea",
+        "Surgical repair of the trachea",
+        "Permanent opening in the trachea",
+        "Inflammation of the trachea"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does 'colostomy' refer to?",
+      "options": [
+        "Surgical removal of the colon",
+        "Inflammation of the colon",
+        "Surgical creation of a permanent opening in the colon",
+        "Enlargement of the colon"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does 'megacolon' refer to?",
+      "options": [
+        "Abnormally small colon",
+        "Normal colon",
+        "Abnormally large colon",
+        "Colon inflammation"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does 'colonoscopy' mean?",
+      "options": [
+        "Surgical removal of the colon",
+        "Visual examination of the colon",
+        "Inflammation of the colon",
+        "Repair of the colon"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'hepatitis' mean?",
+      "options": [
+        "Inflammation of the liver",
+        "Enlargement of the liver",
+        "Liver failure",
+        "Surgical removal of the liver"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'hepatomegaly' mean?",
+      "options": [
+        "Inflammation of the liver",
+        "Enlargement of the liver",
+        "Liver failure",
+        "Surgical removal of liver tissue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'orchiditis' mean?",
+      "options": [
+        "Inflammation of the testis",
+        "Enlargement of the testis",
+        "Surgical removal of the testis",
+        "Tumor of the testis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'orchidectomy' mean?",
+      "options": [
+        "Inflammation of the testis",
+        "Surgical removal of the testis",
+        "Enlargement of the testis",
+        "Damage to the testis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'hysterectomy' mean?",
+      "options": [
+        "Inflammation of the uterus",
+        "Surgical removal of the uterus",
+        "Enlargement of the uterus",
+        "Repair of the uterus"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'endometritis' mean?",
+      "options": [
+        "Inflammation of the inner lining of the uterus",
+        "Inflammation of the outer layer of the uterus",
+        "Enlargement of the uterus",
+        "Surgical removal of uterine tissue"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'gastritis' mean?",
+      "options": [
+        "Inflammation of the stomach",
+        "Enlargement of the stomach",
+        "Surgical removal of the stomach",
+        "Stomach ulcer"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'cholecystitis' mean?",
+      "options": [
+        "Inflammation of the gallbladder",
+        "Enlargement of the gallbladder",
+        "Gallstone formation",
+        "Surgical removal of the gallbladder"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'cholecystectomy' mean?",
+      "options": [
+        "Surgical removal of the gallbladder",
+        "Inflammation of the gallbladder",
+        "Repair of the gallbladder",
+        "Examination of the gallbladder"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'rhinitis' mean?",
+      "options": [
+        "Inflammation of the nose",
+        "Infection of the ear",
+        "Surgical repair of the nose",
+        "Enlargement of the nose"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'rhinorrhea' mean?",
+      "options": [
+        "Nasal obstruction",
+        "Runny nose",
+        "Nasal polyps",
+        "Nasal bleeding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'laryngotomy' mean?",
+      "options": [
+        "Surgical removal of the larynx",
+        "Incision into the larynx",
+        "Permanent opening in the larynx",
+        "Inflammation of the larynx"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'laryngectomy' mean?",
+      "options": [
+        "Temporary opening in the larynx",
+        "Incision into the larynx",
+        "Surgical removal of the larynx",
+        "Repair of the larynx"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does 'tachypnea' mean?",
+      "options": [
+        "Slow breathing",
+        "Accelerated breathing",
+        "Normal breathing",
+        "Interrupted breathing"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'dyspnea' mean?",
+      "options": [
+        "Normal breathing",
+        "Difficulty or painful breathing",
+        "Fast breathing",
+        "Inability to breathe"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'apnea' mean?",
+      "options": [
+        "Difficulty breathing",
+        "Excessive breathing",
+        "Cessation of breathing",
+        "Rapid breathing"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does 'rhinoplasty' mean?",
+      "options": [
+        "Surgical reconstruction of the nose",
+        "Surgical removal of the nose",
+        "Inflammation of the nasal tissues",
+        "Enlargement of the nose"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'hydronephrosis' mean?",
+      "options": [
+        "Inflammation of the kidney",
+        "Abnormal accumulation of urine in the kidney",
+        "Surgical removal of the kidney",
+        "Enlargement of the kidney"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'nephritis' mean?",
+      "options": [
+        "Inflammation of the kidney",
+        "Enlargement of the kidney",
+        "Surgical removal of the kidney",
+        "Tumor of the kidney"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'urethritis' mean?",
+      "options": [
+        "Inflammation of the urethra",
+        "Enlargement of the urethra",
+        "Surgical removal of the urethra",
+        "Blockage of the urethra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'oophorectomy' mean?",
+      "options": [
+        "Inflammation of the ovary",
+        "Surgical removal of the ovary",
+        "Enlargement of the ovary",
+        "Tumor of the ovary"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'salpingitis' mean?",
+      "options": [
+        "Inflammation of the uterine tube",
+        "Enlargement of the uterine tube",
+        "Surgical removal of the uterine tube",
+        "Tumor of the uterine tube"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does 'arthralgia' mean?",
+      "options": [
+        "Inflammation of a joint",
+        "Pain in a joint",
+        "Enlargement of a joint",
+        "Surgical repair of a joint"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does 'arthritis' mean?",
+      "options": [
+        "Pain in a joint",
+        "Inflammation of a joint",
+        "Surgical removal of a joint",
+        "Enlargement of a joint"
+      ],
+      "correct": 1
+    }
+  ]
+}
