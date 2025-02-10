@@ -36,6 +36,15 @@
               "path": "data/first_year/pathology/lec2_cellular_adaptation.json"
             }
           ]
+        },
+        {
+          "subject": "Medical Terminology",
+          "quizzes": [
+            {
+              "title": "Medical Terminology",
+              "path": "data/first_year/medical_terminology.json"
+            }
+          ]
         }
       ]
     }
