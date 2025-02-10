@@ -248,3 +248,4 @@ function displayLastScore() {
 
 // Initialize by loading the quiz data
 loadQuizData();
+displayLastScore();
