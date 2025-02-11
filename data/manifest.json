@@ -34,15 +34,14 @@
             {
               "title": "Cellular Adaptation",
               "path": "data/first_year/pathology/lec2_cellular_adaptation.json"
-            }
-          ]
-        },
-        {
-          "subject": "Medical Terminology",
-          "quizzes": [
+            },
             {
-              "title": "Medical Terminology",
-              "path": "data/first_year/medical_terminology.json"
+              "title": "Reversible Cell Injury",
+              "path": "data/first_year/pathology/lec3_reversible_cell_injury.json"
+            },
+            {
+              "title": "irreversible Cell Injury",
+              "path": "data/first_year/pathology/lec4_irreversible_cell_injury.json"
             }
           ]
         }
