@@ -1,0 +1,405 @@
+{
+  "title": "Reversible Cell Injury",
+  "questions": [
+    {
+      "question": "What does cell injury refer to?",
+      "options": [
+        "A reversible adaptation process",
+        "A sequence of events that occur when the cell's adaptive capacity is exceeded",
+        "A process exclusively leading to cell death",
+        "An irreversible degenerative process"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is NOT a common cause of cell injury?",
+      "options": [
+        "Ischemia",
+        "Hypoxia",
+        "Chemical injury",
+        "Genetic mutation"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "What distinguishes reversible cell injury from irreversible cell injury?",
+      "options": [
+        "Reversible injury involves significant nuclear damage",
+        "Reversible injury occurs when the stimulus is mild and short-term",
+        "Reversible injury always leads to apoptosis",
+        "Reversible injury is marked by lysosomal rupture"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which cellular structure is affected first in hypoxic cell injury?",
+      "options": [
+        "Plasma membrane",
+        "Ribosomes",
+        "Mitochondria",
+        "Nucleus"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "How does mitochondrial injury contribute to reversible cell injury?",
+      "options": [
+        "By increasing ATP production",
+        "By causing ATP depletion",
+        "By enhancing oxidative phosphorylation",
+        "By inducing nuclear condensation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the consequence of ATP depletion in injured cells?",
+      "options": [
+        "Enhanced Na⁺/K⁺ ATPase pump activity",
+        "Failure of the Na⁺/K⁺ ATPase pump leading to cell swelling",
+        "Increased protein synthesis",
+        "Improved membrane integrity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following best describes 'cloudy swelling'?",
+      "options": [
+        "Severe cell necrosis",
+        "Mild cell swelling with a granular cytoplasm due to water accumulation",
+        "Complete loss of organelle function",
+        "Fat accumulation within the cell"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the main morphological change seen in hydropic degeneration?",
+      "options": [
+        "Accumulation of intracellular fat",
+        "Excess intracellular water forming vacuoles",
+        "Nuclear fragmentation",
+        "Increased anaerobic glycolysis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which feature distinguishes reversible cell injury from irreversible injury?",
+      "options": [
+        "Mitochondrial swelling that is reversible",
+        "Ribosomal detachment from the RER",
+        "Intact lysosomal membranes preventing enzyme leakage",
+        "Plasma membrane blebbing"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is considered the 'point of no return' in cell injury?",
+      "options": [
+        "ATP regeneration",
+        "Mitochondrial swelling",
+        "Nuclear condensation and irreversible membrane damage",
+        "Cytosolic vacuolization"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following events is an early consequence of hypoxia?",
+      "options": [
+        "Increased protein synthesis",
+        "Mitochondrial injury",
+        "Nuclear fragmentation",
+        "Extracellular edema"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the primary role of the Na⁺/K⁺ ATPase pump in maintaining cell integrity?",
+      "options": [
+        "To cause ATP depletion",
+        "To maintain ionic balance and prevent cell swelling",
+        "To generate lactic acid",
+        "To increase intracellular calcium levels"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which organelle is primarily responsible for ATP synthesis and is affected early in cell injury?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Endoplasmic Reticulum",
+        "Golgi Apparatus"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "How does anaerobic glycolysis contribute to reversible cell injury?",
+      "options": [
+        "By increasing ATP levels",
+        "By causing lactic acid accumulation and intracellular acidosis",
+        "By stabilizing the plasma membrane",
+        "By enhancing protein synthesis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which morphological change is characterized by the formation of numerous tiny vacuoles in the cytoplasm?",
+      "options": [
+        "Cloudy swelling",
+        "Fatty change",
+        "Hydropic degeneration",
+        "Apoptosis"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the effect of ribosomal detachment from the rough endoplasmic reticulum?",
+      "options": [
+        "Increases protein synthesis",
+        "Reduces protein synthesis",
+        "Improves cellular repair",
+        "Enhances ATP production"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which event is primarily responsible for intracellular water accumulation in reversible cell injury?",
+      "options": [
+        "Increased membrane permeability due to Na⁺ influx",
+        "Increased protein synthesis",
+        "Excessive oxidative phosphorylation",
+        "Lysosomal rupture"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In the context of reversible cell injury, what does plasma membrane blebbing indicate?",
+      "options": [
+        "Irreversible damage",
+        "An early sign of membrane alterations",
+        "A process that prevents cell swelling",
+        "An increase in ATP production"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which organ is most commonly affected by cloudy swelling?",
+      "options": [
+        "Skeletal muscle",
+        "Liver",
+        "Bone",
+        "Brain"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What gross feature is typically observed in an organ undergoing cloudy swelling?",
+      "options": [
+        "A shrunken, darkened surface",
+        "A swollen, pale, and soft appearance",
+        "Fibrotic tissue formation",
+        "Hemorrhagic necrosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What differentiates fatty change (steatosis) from other forms of reversible cell injury?",
+      "options": [
+        "It involves water accumulation",
+        "It involves accumulation of neutral fats in the cytoplasm",
+        "It always leads to cell death",
+        "It is exclusively found in kidney cells"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a cause of fatty change in liver cells?",
+      "options": [
+        "Excessive carbohydrate and fat intake",
+        "Mitochondrial hyperactivity",
+        "Increased oxidative phosphorylation",
+        "Enhanced protein synthesis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How does alcohol contribute to fatty change in liver cells?",
+      "options": [
+        "By increasing fatty acid synthesis, decreasing fatty acid oxidation, and mobilizing fat to the liver",
+        "By causing lysosomal rupture",
+        "By increasing the activity of the Na⁺/K⁺ ATPase pump",
+        "By stimulating oxidative phosphorylation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which best describes the microscopic appearance of fatty change in hepatocytes?",
+      "options": [
+        "Numerous small vacuoles with a signet-ring appearance",
+        "Swollen cytoplasm with a granular red appearance",
+        "Cells with prominent nucleoli and increased basophilia",
+        "Dense, eosinophilic cytoplasm with pyknosis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is an example of hydropic degeneration?",
+      "options": [
+        "Ballooning degeneration of liver cells in viral hepatitis",
+        "Fat accumulation in hepatocytes due to alcohol",
+        "Necrosis in myocardial infarction",
+        "Formation of inclusion bodies in viral infections"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the effect of intracellular Na⁺ accumulation during cell injury?",
+      "options": [
+        "It triggers apoptosis",
+        "It leads to cellular swelling and vacuolization",
+        "It enhances protein synthesis",
+        "It stabilizes the cytoskeleton"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which cellular event is directly responsible for the formation of vacuoles in hydropic degeneration?",
+      "options": [
+        "ATP depletion leading to pump failure",
+        "Mitochondrial hyperpolarization",
+        "Excessive protein synthesis",
+        "Increased lysosomal enzyme activity"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How do lysosomes help distinguish reversible from irreversible cell injury?",
+      "options": [
+        "They rupture in reversible injury",
+        "Their intact membranes in reversible injury prevent enzyme leakage",
+        "They increase ATP production in reversible injury",
+        "They are not involved in cell injury"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which change is reversible if oxygenation is restored?",
+      "options": [
+        "Permanent mitochondrial dysfunction",
+        "Nuclear condensation",
+        "Cellular swelling with vacuolization",
+        "Lysosomal rupture"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Why is the maintenance of lysosomal membrane integrity critical in reversible cell injury?",
+      "options": [
+        "It prevents the leakage of degradative enzymes",
+        "It promotes apoptosis",
+        "It enhances oxidative stress",
+        "It causes increased protein synthesis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which sequence of events best describes the pathogenesis of reversible cell injury due to hypoxia?",
+      "options": [
+        "Mitochondrial injury → ATP depletion → failure of ion pumps → cellular swelling",
+        "ATP depletion → mitochondrial injury → increased protein synthesis → nuclear condensation",
+        "Nuclear fragmentation → ATP depletion → mitochondrial hyperactivity → cellular shrinkage",
+        "Lysosomal rupture → plasma membrane blebbing → ATP regeneration → cell repair"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which combination of morphological changes would you expect in a cell undergoing reversible injury due to hypoxia?",
+      "options": [
+        "Cellular swelling, mitochondrial dilation, and intact lysosomes",
+        "Nuclear fragmentation, lysosomal rupture, and membrane blebbing",
+        "Fatty change, cytoplasmic clearing, and nuclear pyknosis",
+        "Cell shrinkage, increased ribosomal binding, and smooth ER proliferation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How does hydropic degeneration differ from cloudy swelling in terms of intracellular water distribution?",
+      "options": [
+        "Hydropic degeneration results in the formation of clear, discrete vacuoles, while cloudy swelling produces a granular, diffuse cytoplasmic appearance",
+        "Both conditions show identical patterns of water distribution",
+        "Cloudy swelling forms discrete vacuoles, whereas hydropic degeneration shows diffuse granularity",
+        "Hydropic degeneration is characterized by fat accumulation, unlike cloudy swelling"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Why are hepatocytes particularly susceptible to fatty change?",
+      "options": [
+        "Because of their high capacity for protein synthesis",
+        "Due to their central role in fat metabolism and vulnerability to enzyme inactivation",
+        "Because they lack mitochondria",
+        "Due to an abundance of lysosomes in hepatocytes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the relationship between the duration of an injurious stimulus and the reversibility of cell injury?",
+      "options": [
+        "Short-term, mild injury leads to reversible changes, while prolonged, severe injury results in irreversible damage",
+        "Any duration of injury always leads to irreversible damage",
+        "Long-term injury is always reversible",
+        "Duration has no impact on the reversibility of cell injury"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which mechanism is primarily responsible for decreased protein synthesis during reversible cell injury?",
+      "options": [
+        "Increased mitochondrial ATP production",
+        "Ribosomal detachment from the rough endoplasmic reticulum",
+        "Enhanced Na⁺/K⁺ ATPase activity",
+        "Lysosomal enzyme activation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In the context of reversible cell injury, what does the term 'ballooning degeneration' refer to?",
+      "options": [
+        "Nuclear condensation seen in apoptosis",
+        "The gross appearance of fatty change in the liver",
+        "Another term for cloudy swelling, especially in hepatocytes",
+        "A marker of irreversible cell injury with membrane rupture"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which best describes the changes in the endoplasmic reticulum during reversible cell injury?",
+      "options": [
+        "Dilation and detachment of ribosomes leading to decreased protein synthesis",
+        "Fragmentation and condensation of the ER",
+        "Proliferation of rough ER with increased ribosomal attachment",
+        "Complete disintegration of the ER membrane"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Considering the sequence of cellular events in reversible cell injury, which event is most likely to be reversed if the injurious stimulus is removed promptly?",
+      "options": [
+        "Nuclear condensation",
+        "Lysosomal rupture",
+        "Mitochondrial swelling and cellular edema",
+        "Plasma membrane rupture"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Integrating the mechanisms of reversible cell injury, which statement best summarizes the critical interplay between energy metabolism and cellular homeostasis in determining cell fate?",
+      "options": [
+        "The restoration of ATP levels and ionic balance is fundamental to reversing cell injury, highlighting the central role of mitochondrial function and membrane integrity in cell survival",
+        "Increased ATP levels always lead to cell death due to excessive enzyme activity",
+        "Ionic imbalance is inconsequential in the process of cell injury",
+        "Mitochondrial injury is irrelevant as long as lysosomes remain intact"
+      ],
+      "correct": 0
+    }
+  ]
+}

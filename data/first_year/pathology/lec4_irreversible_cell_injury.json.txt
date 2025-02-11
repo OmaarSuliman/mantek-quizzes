@@ -1,0 +1,365 @@
+{
+  "title": "Irreversible Cell Injury",
+  "questions": [
+    {
+      "question": "Which factor is considered the critical determinant in the progression to irreversible cell injury?",
+      "options": [
+        "ATP depletion",
+        "Mitochondrial hyperplasia",
+        "Membrane damage with profound dysfunction",
+        "Reversible cellular swelling"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What event marks the point of no return in cell injury?",
+      "options": [
+        "Reversible mitochondrial swelling",
+        "Irreversible plasma membrane disruption",
+        "Lysosomal stability",
+        "Temporary Na⁺/K⁺ pump failure"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which organelle’s damage is central to irreversible cell injury?",
+      "options": [
+        "Mitochondria",
+        "Ribosomes",
+        "Golgi apparatus",
+        "Nucleus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How does severe mitochondrial damage contribute to irreversible injury?",
+      "options": [
+        "By increasing ATP synthesis",
+        "By releasing cytochrome c and generating reactive oxygen species (ROS)",
+        "By maintaining ionic balance",
+        "By stimulating protein synthesis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which nuclear change is a hallmark of irreversible cell injury?",
+      "options": [
+        "Chromatin clumping",
+        "Pyknosis (nuclear condensation)",
+        "Nuclear enlargement",
+        "Increased basophilia"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does karyolysis refer to in the context of irreversible cell injury?",
+      "options": [
+        "Fragmentation of the nucleus into small pieces",
+        "Condensation of the nucleus",
+        "Dissolution and fading of the nuclear chromatin",
+        "Reversible chromatin clumping"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the consequence of massive calcium influx in irreversibly injured cells?",
+      "options": [
+        "Activation of destructive enzymes (phospholipases, proteases, endonucleases)",
+        "Restoration of membrane integrity",
+        "Inhibition of free radical formation",
+        "Promotion of cell repair mechanisms"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which event further accelerates cell death by releasing degradative enzymes into the cytoplasm?",
+      "options": [
+        "Ribosomal dispersion",
+        "Lysosomal rupture",
+        "Mitochondrial swelling",
+        "Nuclear fragmentation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which change in the plasma membrane is indicative of irreversible injury?",
+      "options": [
+        "Blebbing with intact overall structure",
+        "Loss of integrity with leakage of intracellular contents",
+        "Increased microvilli formation",
+        "Temporary permeability changes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Coagulative necrosis is most commonly seen in which type of tissue injury?",
+      "options": [
+        "Infarction of organs (except the brain)",
+        "Brain abscesses",
+        "Tuberculous infections",
+        "Fat-rich tissues in acute pancreatitis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What best characterizes liquefactive necrosis?",
+      "options": [
+        "Retention of cell outlines with loss of nuclear detail",
+        "Complete enzymatic digestion of dead cells forming a liquid mass",
+        "Cheesy, granular appearance with granulomatous inflammation",
+        "Saponification of fat with chalky deposits"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Caseous necrosis is typically associated with which type of infection?",
+      "options": [
+        "Bacterial endocarditis",
+        "Tuberculosis",
+        "Acute pancreatitis",
+        "Ischemic myocardial infarction"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In fat necrosis, what substance complexes with free fatty acids to produce chalky white deposits?",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Fibrinoid necrosis is most commonly seen in which setting?",
+      "options": [
+        "Ischemic injury of the kidney",
+        "Immune complex–mediated vascular damage (e.g., vasculitis)",
+        "Enzymatic fat necrosis in acute pancreatitis",
+        "Liquefactive necrosis of brain tissue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following events is NOT a feature of irreversible cell injury?",
+      "options": [
+        "Massive calcium influx",
+        "Lysosomal rupture",
+        "Reversible cytosolic vacuolization",
+        "Mitochondrial dysfunction with cytochrome c release"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which process is energy-dependent and involves the formation of membrane-bound apoptotic bodies?",
+      "options": [
+        "Necrosis",
+        "Apoptosis",
+        "Coagulative necrosis",
+        "Liquefactive necrosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What distinguishes apoptosis from necrosis regarding the inflammatory response?",
+      "options": [
+        "Apoptosis is associated with a robust inflammatory response.",
+        "Necrosis does not elicit any inflammation.",
+        "Apoptosis does not provoke inflammation due to rapid phagocytic clearance.",
+        "Both processes elicit similar inflammatory reactions."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which morphological feature is typical of apoptotic cells?",
+      "options": [
+        "Cell swelling with membrane rupture",
+        "Cell shrinkage with chromatin condensation and formation of apoptotic bodies",
+        "Diffuse cytoplasmic eosinophilia",
+        "Nuclear karyolysis with inflammatory infiltrate"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which pathway is activated by internal stress such as DNA damage leading to apoptosis?",
+      "options": [
+        "Extrinsic pathway",
+        "Intrinsic (mitochondrial) pathway",
+        "Lysosomal pathway",
+        "Receptor-independent pathway"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In the extrinsic apoptotic pathway, which ligand is commonly involved?",
+      "options": [
+        "Fas ligand (FasL)",
+        "Epidermal growth factor",
+        "Insulin-like growth factor",
+        "Interleukin-6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What role do caspases play in apoptosis?",
+      "options": [
+        "They repair damaged DNA.",
+        "They act as proteases that cleave cellular substrates to execute cell death.",
+        "They stimulate protein synthesis.",
+        "They block the release of cytochrome c."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which statement best compares the energy requirements of apoptosis and necrosis?",
+      "options": [
+        "Apoptosis requires ATP, whereas necrosis is an energy-independent process.",
+        "Necrosis requires ATP, whereas apoptosis does not.",
+        "Both processes require high levels of ATP.",
+        "Neither process requires ATP."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which change in the plasma membrane differentiates apoptosis from necrosis?",
+      "options": [
+        "In apoptosis, the plasma membrane remains intact (though altered) until apoptotic bodies form; in necrosis, it ruptures releasing cell contents.",
+        "Both apoptosis and necrosis show complete loss of membrane integrity.",
+        "In necrosis, the plasma membrane remains intact, while apoptosis involves membrane rupture.",
+        "Membrane integrity is not affected in either process."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which morphological feature is typically retained in coagulative necrosis?",
+      "options": [
+        "Complete dissolution of cellular outlines",
+        "Preservation of cell outlines (ghost cells) with loss of nuclear details",
+        "Multiple small cystic spaces with liquefied contents",
+        "Cheesy, granular appearance"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What additional histologic reaction often accompanies caseous necrosis?",
+      "options": [
+        "Acute neutrophilic infiltration",
+        "Granulomatous inflammation with epithelioid cells and giant cells",
+        "Fibrosis without inflammation",
+        "Pure coagulation without any inflammatory cells"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Fibrinoid necrosis is characterized microscopically by what appearance in the vessel walls?",
+      "options": [
+        "Brightly eosinophilic, hyaline-like deposition with surrounding nuclear debris",
+        "Retained cellular outlines with ghost cells",
+        "Multiple cystic spaces filled with clear fluid",
+        "Granular, cheesy appearance with granulomas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How does irreversible cell injury affect lysosomal membranes compared to reversible injury?",
+      "options": [
+        "In irreversible injury, lysosomes remain intact.",
+        "In irreversible injury, lysosomal membranes rupture, releasing degradative enzymes.",
+        "Both reversible and irreversible injury cause lysosomal rupture.",
+        "Reversible injury causes lysosomal rupture, while irreversible injury does not."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme activation directly results from sustained calcium influx during irreversible injury?",
+      "options": [
+        "DNA polymerase",
+        "Phospholipases",
+        "ATP synthase",
+        "RNA polymerase"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the effect of reactive oxygen species (ROS) in the context of irreversible cell injury?",
+      "options": [
+        "They enhance ATP production.",
+        "They cause oxidative damage to lipids, proteins, and DNA.",
+        "They stimulate membrane repair.",
+        "They inhibit calcium influx."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following best describes the difference between necrosis and apoptosis in terms of inflammatory response?",
+      "options": [
+        "Both necrosis and apoptosis trigger an inflammatory response.",
+        "Necrosis is accompanied by inflammation due to cell content leakage, while apoptosis occurs without significant inflammation.",
+        "Apoptosis causes a stronger inflammatory response than necrosis.",
+        "Neither process results in inflammation."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of apoptosis?",
+      "options": [
+        "Cell shrinkage",
+        "Formation of apoptotic bodies",
+        "Loss of plasma membrane integrity with spillage of contents",
+        "Chromatin condensation and nuclear fragmentation"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "How does the presence of intact lysosomes help differentiate reversible from irreversible cell injury?",
+      "options": [
+        "Intact lysosomes indicate that enzymatic digestion has begun.",
+        "Lysosomal rupture, which is absent in reversible injury, marks irreversible injury.",
+        "Reversible injury is associated with lysosomal rupture.",
+        "There is no difference in lysosomal integrity between the two."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which statement correctly compares physiological and pathological apoptosis?",
+      "options": [
+        "Physiological apoptosis occurs as part of normal development, while pathological apoptosis is triggered by irreparable cellular damage.",
+        "Both physiological and pathological apoptosis always result in inflammation.",
+        "Pathological apoptosis is energy independent, whereas physiological apoptosis requires ATP.",
+        "There is no difference between physiological and pathological apoptosis."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In irreversible cell injury, what role does endonuclease activation play?",
+      "options": [
+        "It repairs damaged DNA.",
+        "It fragments nuclear DNA, contributing to nuclear dissolution.",
+        "It synthesizes new proteins to promote cell survival.",
+        "It stabilizes the nuclear membrane."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which process in irreversible cell injury contributes to a self-perpetuating cycle of damage?",
+      "options": [
+        "Controlled cell shrinkage",
+        "Massive calcium influx leading to further enzyme activation and membrane disruption",
+        "Reversible cellular swelling",
+        "Increased ATP generation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which statement best summarizes the interplay between mitochondrial dysfunction, calcium influx, and membrane integrity in irreversible cell injury?",
+      "options": [
+        "Restoration of mitochondrial function always prevents calcium influx.",
+        "Mitochondrial dysfunction leads to ATP depletion, which causes massive calcium influx and irreversible membrane damage, culminating in cell death.",
+        "Calcium influx repairs damaged mitochondrial membranes.",
+        "Preservation of membrane integrity is unrelated to mitochondrial damage."
+      ],
+      "correct": 1
+    }
+  ]
+}
