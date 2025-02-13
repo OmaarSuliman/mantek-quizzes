@@ -42,6 +42,14 @@
             {
               "title": "irreversible Cell Injury",
               "path": "data/first_year/pathology/lec4_irreversible_cell_injury.json"
+            },
+            {
+              "title": "Tissue Accumulation",
+              "path": "data/first_year/pathology/lec5_tissue_accumulation.json"
+            },
+            {
+              "title": "Acute Inflammation",
+              "path": "data/first_year/pathology/lec6_acute_inflammation.json"
             }
           ]
         }
