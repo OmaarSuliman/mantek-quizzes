@@ -21,6 +21,14 @@
             {
               "title": "Drug Excretion",
               "path": "data/first_year/pharmacology/lec4_drug_excretion.json"
+            },
+            {
+              "title": "Pharmacodynamics 1",
+              "path": "data/first_year/pharmacology/lec5_pharmacodynamics_1.json"
+            },
+            {
+              "title": "Pharmacodynamics 2",
+              "path": "data/first_year/pharmacology/lec5_pharmacodynamics_2.json"
             }
           ]
         },
