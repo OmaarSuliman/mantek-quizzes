@@ -50,6 +50,10 @@
             {
               "title": "Acute Inflammation",
               "path": "data/first_year/pathology/lec6_acute_inflammation.json"
+            },
+            {
+              "title": "Types of Acute Inflammation",
+              "path": "data/first_year/pathology/lec7_types_of_acute_inflammation.json"
             }
           ]
         }
