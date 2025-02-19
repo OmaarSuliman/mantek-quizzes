@@ -1,0 +1,405 @@
+{
+  "title": "Tuberculosis",
+  "questions": [
+    {
+      "question": "1. What is the primary etiologic agent of tuberculosis?",
+      "options": [
+        "Mycobacterium tuberculosis",
+        "Mycobacterium leprae",
+        "Staphylococcus aureus",
+        "Escherichia coli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Which statement best describes the toxin production of Mycobacterium tuberculosis?",
+      "options": [
+        "It produces potent exotoxins and endotoxins",
+        "It produces no exotoxins, endotoxins, or histolytic enzymes",
+        "It produces only endotoxins",
+        "It produces histolytic enzymes only"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. What is the commonest route of infection for tuberculosis?",
+      "options": [
+        "Inhalation",
+        "Ingestion",
+        "Skin inoculation",
+        "Intravenous injection"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Which route of infection is considered less common in TB?",
+      "options": [
+        "Inhalation",
+        "Ingestion of contaminated milk",
+        "Skin inoculation by handling infected materials",
+        "Respiratory droplets"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "5. Which component of the mycobacterial structure protects it from neutrophilic destruction?",
+      "options": [
+        "Lipid capsule",
+        "Protein shell",
+        "Polysaccharide coat",
+        "Peptidoglycan wall"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. What role does the polysaccharide fraction of TB bacilli play?",
+      "options": [
+        "It kills macrophages directly",
+        "It attracts neutrophils within a few hours",
+        "It neutralizes bacterial toxins",
+        "It promotes fibroblast proliferation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "7. Why are neutrophils unable to effectively destroy TB bacilli?",
+      "options": [
+        "They lack the enzyme lipase",
+        "They are not attracted to the infection site",
+        "They are inhibited by lymphocytes",
+        "They produce excessive free radicals"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Which cell type is attracted after neutrophils in TB infection?",
+      "options": [
+        "Lymphocytes",
+        "Eosinophils",
+        "Macrophages",
+        "Basophils"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "9. What transformation do macrophages undergo in TB infection?",
+      "options": [
+        "They transform into neutrophils",
+        "They become epithelioid cells",
+        "They differentiate into fibroblasts",
+        "They undergo apoptosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. What substance is released from partially digested bacilli to stimulate cell-mediated immunity?",
+      "options": [
+        "Tuberculoprotein",
+        "Lipopolysaccharide",
+        "Collagen",
+        "Interleukin-1"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Approximately how many days does it take for a cell-mediated immune response to develop in TB?",
+      "options": [
+        "1 day",
+        "3 days",
+        "10 days",
+        "30 days"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "12. What is the term used for a TB granuloma?",
+      "options": [
+        "Abscess",
+        "Tubercle",
+        "Carbuncle",
+        "Furuncle"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "13. When tubercles fuse to become grossly visible, what is their typical size?",
+      "options": [
+        "1-2 mm in diameter",
+        "1-2 cm in diameter",
+        "5-10 mm in diameter",
+        "Over 2 cm in diameter"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. How does a caseating lesion in TB typically appear macroscopically?",
+      "options": [
+        "Red and inflamed",
+        "Pale yellow and cheesy",
+        "Dark and fibrotic",
+        "Green and purulent"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "15. What are the main microscopic components of a tubercle?",
+      "options": [
+        "Epithelioid cells, Langhans giant cells, and lymphocytes",
+        "Neutrophils, eosinophils, and basophils",
+        "Fibroblasts, plasma cells, and mast cells",
+        "Red blood cells, platelets, and lymphocytes"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. What is the primary function of Langhans giant cells in a tubercle?",
+      "options": [
+        "To directly kill bacteria",
+        "To remove caseating material and bacteria",
+        "To form a fibrous capsule",
+        "To secrete antibodies"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "17. In individuals with high immunity, what happens to small tubercle lesions?",
+      "options": [
+        "They progress to large cavities",
+        "They completely fibrose",
+        "They form acute abscesses",
+        "They spread rapidly"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. In individuals with low immunity, large tubercle lesions are likely to be:",
+      "options": [
+        "Completely resolved without scarring",
+        "Encapsulated by fibrous tissue with dystrophic calcification",
+        "Converted into acute abscesses",
+        "Replaced by normal lung tissue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. Which route is NOT a mechanism for TB spread?",
+      "options": [
+        "Direct spread",
+        "Lymphatic spread",
+        "Blood spread",
+        "Neural spread"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "20. What distinguishes secondary TB from primary TB in terms of immune response?",
+      "options": [
+        "Secondary TB occurs in previously sensitized individuals",
+        "Secondary TB occurs in individuals with no prior exposure",
+        "Primary TB is associated with reactivation of a latent focus",
+        "There is no difference in immune response between primary and secondary TB"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. Primary pulmonary TB is most commonly seen in which age group?",
+      "options": [
+        "Adults",
+        "Elderly",
+        "Children",
+        "Adolescents"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "22. What constitutes the primary pulmonary complex in TB?",
+      "options": [
+        "Ghon's focus, tuberculous lymphangitis, and tuberculous lymphadenitis",
+        "Ghon's focus and pleural effusion",
+        "Tuberculous pneumonia only",
+        "Caseating necrosis only"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Where is Ghon's focus typically located?",
+      "options": [
+        "Subpleural regions",
+        "Central lung parenchyma",
+        "Near the hilum",
+        "At the lung apex"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. What is the typical size of a Ghon's focus?",
+      "options": [
+        "1-1.5 cm in diameter",
+        "5-10 mm in diameter",
+        "Over 2 cm in diameter",
+        "Less than 1 cm in diameter"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Which lymph nodes are most commonly involved in tuberculous lymphadenitis?",
+      "options": [
+        "Axillary lymph nodes",
+        "Cervical lymph nodes",
+        "Hilar lymph nodes",
+        "Inguinal lymph nodes"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "26. Tuberculous lymphadenitis is characterized by:",
+      "options": [
+        "Enlarged hilar nodes with caseating tubercles forming a 'cold abscess'",
+        "Acute suppurative inflammation of lymph nodes",
+        "Non-caseating granulomas without necrosis",
+        "Rapid resolution with minimal lymph node involvement"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. How do small primary TB lesions typically heal?",
+      "options": [
+        "By complete fibrosis",
+        "By rapid cavitation",
+        "By abscess formation",
+        "They do not heal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Tuberculous pleurisy occurs as a result of:",
+      "options": [
+        "Direct spread of tubercles to the pleura",
+        "Inhalation of bacilli directly into the pleural space",
+        "Hematogenous dissemination only",
+        "Lymphatic obstruction"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. What is miliary tuberculosis?",
+      "options": [
+        "A localized tubercle in the lung",
+        "Multiple small tubercles disseminated via the bloodstream",
+        "Tuberculosis confined to the lymph nodes",
+        "An infection with minimal systemic spread"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. Secondary pulmonary tuberculosis arises in:",
+      "options": [
+        "Previously sensitized individuals",
+        "Individuals with no prior exposure",
+        "Only in children",
+        "Immunocompromised patients exclusively"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. How does secondary pulmonary TB typically manifest?",
+      "options": [
+        "As a regressing fibrotic lesion",
+        "As chronic fibrocaseous lesions or bronchopneumonia",
+        "As an acute suppurative pneumonia",
+        "As isolated cavitary lesions without fibrosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "32. What is the typical etiology of primary intestinal tuberculosis?",
+      "options": [
+        "Inhalation of bacilli",
+        "Ingestion of infected milk containing bovine bacilli",
+        "Direct skin inoculation",
+        "Hematogenous spread from the lung"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "33. Which part of the intestine is most commonly affected in primary intestinal TB?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Terminal ileum",
+        "Sigmoid colon"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "34. What constitutes the primary intestinal complex in TB?",
+      "options": [
+        "Intestinal lesion, tuberculous lymphangitis, and tuberculous lymphadenitis",
+        "Intestinal ulceration only",
+        "Fibrosis and calcification only",
+        "Granuloma formation in the colon only"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Secondary intestinal tuberculosis is primarily due to:",
+      "options": [
+        "Ingestion of infected milk",
+        "Swallowing infected sputum in patients with chronic fibrocaseous TB",
+        "Direct intestinal invasion by bacilli",
+        "Hematogenous spread from the liver"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. How are tuberculous ulcers in the intestine typically described?",
+      "options": [
+        "With sharp, well-defined edges",
+        "With ragged and undermined edges",
+        "With raised, everted margins",
+        "With smooth, circular borders"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. Which of the following is a major complication of tuberculous intestinal ulcers?",
+      "options": [
+        "Perforation leading to septic peritonitis",
+        "Rapid complete healing without scarring",
+        "Acute diarrhea without systemic effects",
+        "Immediate resolution with no long-term sequelae"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. What is the defining characteristic of miliary tuberculosis?",
+      "options": [
+        "A single large tubercle in the lung",
+        "Multiple small tubercles disseminated via the bloodstream",
+        "Localized lymph node involvement only",
+        "Exclusive involvement of the pleura"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "39. Which factor primarily influences the fate of a tubercle in TB?",
+      "options": [
+        "The patient's immune response",
+        "The motility of the bacilli",
+        "The production of bacterial exotoxins",
+        "Rapid clearance of bacilli by neutrophils"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Which statement best summarizes the pathogenesis of tuberculosis?",
+      "options": [
+        "Bacilli are rapidly destroyed by neutrophils without further immune response",
+        "Inhaled or ingested bacilli are phagocytosed by macrophages, leading to granuloma (tubercle) formation with caseation, fibrosis, and potential dissemination via direct, lymphatic, or blood routes",
+        "TB is a viral infection that causes minimal tissue reaction",
+        "The lesions in TB are due solely to allergic reactions with eosinophilic infiltration"
+      ],
+      "correct": 1
+    }
+  ]
+}
