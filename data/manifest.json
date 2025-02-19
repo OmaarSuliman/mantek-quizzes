@@ -6,63 +6,28 @@
         {
           "subject": "Pharmacology",
           "quizzes": [
-            {
-              "title": "Drug Absorption",
-              "path": "data/first_year/pharmacology/lec1_drug_absorption.json"
-            },
-            {
-              "title": "Drug Distribution",
-              "path": "data/first_year/pharmacology/lec2_drug_distribution.json"
-            },
-            {
-              "title": "Drug Metabolism",
-              "path": "data/first_year/pharmacology/lec3_drug_metabolism.json"
-            },
-            {
-              "title": "Drug Excretion",
-              "path": "data/first_year/pharmacology/lec4_drug_excretion.json"
-            },
-            {
-              "title": "Pharmacodynamics 1",
-              "path": "data/first_year/pharmacology/lec5_pharmacodynamics_1.json"
-            },
-            {
-              "title": "Pharmacodynamics 2",
-              "path": "data/first_year/pharmacology/lec6_pharmacodynamics_2.json"
-            }
+            {"title": "Drug Absorption", "path": "data/first_year/pharmacology/lec1_drug_absorption.json"},
+            {"title": "Drug Distribution", "path": "data/first_year/pharmacology/lec2_drug_distribution.json"},
+            {"title": "Drug Metabolism", "path": "data/first_year/pharmacology/lec3_drug_metabolism.json"},
+            {"title": "Drug Excretion", "path": "data/first_year/pharmacology/lec4_drug_excretion.json"},
+            {"title": "Pharmacodynamics 1", "path": "data/first_year/pharmacology/lec5_pharmacodynamics_1.json"},
+            {"title": "Pharmacodynamics 2", "path": "data/first_year/pharmacology/lec6_pharmacodynamics_2.json"}
           ]
         },
         {
           "subject": "Pathology",
           "quizzes": [
-            {
-              "title": "Introduction to Pathology",
-              "path": "data/first_year/pathology/lec1_introduction_to_pathology.json"
-            },
-            {
-              "title": "Cellular Adaptation",
-              "path": "data/first_year/pathology/lec2_cellular_adaptation.json"
-            },
-            {
-              "title": "Reversible Cell Injury",
-              "path": "data/first_year/pathology/lec3_reversible_cell_injury.json"
-            },
-            {
-              "title": "irreversible Cell Injury",
-              "path": "data/first_year/pathology/lec4_irreversible_cell_injury.json"
-            },
-            {
-              "title": "Tissue Accumulation",
-              "path": "data/first_year/pathology/lec5_tissue_accumulation.json"
-            },
-            {
-              "title": "Acute Inflammation",
-              "path": "data/first_year/pathology/lec6_acute_inflammation.json"
-            },
-            {
-              "title": "Types of Acute Inflammation",
-              "path": "data/first_year/pathology/lec7_types_of_acute_inflammations.json"
-            }
+            {"title": "Introduction to Pathology", "path": "data/first_year/pathology/lec1_introduction_to_pathology.json"},
+            {"title": "Cellular Adaptation", "path": "data/first_year/pathology/lec2_cellular_adaptation.json"},
+            {"title": "Reversible Cell Injury", "path": "data/first_year/pathology/lec3_reversible_cell_injury.json"},
+            {"title": "Irreversible Cell Injury", "path": "data/first_year/pathology/lec4_irreversible_cell_injury.json"},
+            {"title": "Tissue Accumulation", "path": "data/first_year/pathology/lec5_tissue_accumulation.json"},
+            {"title": "Acute Inflammation", "path": "data/first_year/pathology/lec6_acute_inflammation.json"},
+            {"title": "Types of Acute Inflammation", "path": "data/first_year/pathology/lec7_types_of_acute_inflammations.json"},
+            {"title": "Chronic Inflammation", "path": "data/first_year/pathology/lec8_chronic_inflammation.json"},
+            {"title": "Granulomatous Inflammation", "path": "data/first_year/pathology/lec9_granulomatous_inflammation.json"},
+            {"title": "Tuberculosis", "path": "data/first_year/pathology/lec10_tuberculosis.json"},
+            {"title": "Bilharziasis", "path": "data/first_year/pathology/lec11_bilharziasis.json"}
           ]
         }
       ]
