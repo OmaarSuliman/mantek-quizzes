@@ -1,0 +1,405 @@
+{
+  "title": "Adverse Drug Reactions",
+  "questions": [
+    {
+      "question": "1. What is a predictable adverse drug reaction (Type A)?",
+      "options": [
+        "A harmful effect that is dose-dependent and related to the known pharmacological action of a drug",
+        "An unexpected allergic reaction",
+        "A genetic abnormality in drug metabolism",
+        "A delayed reaction occurring years later"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Which of the following is NOT one of the types of adverse drug reactions?",
+      "options": [
+        "Type A (Predictable)",
+        "Type B (Unpredictable)",
+        "Type C (Continuous)",
+        "Type F (Fatal)"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "3. What is a side effect?",
+      "options": [
+        "An effect produced by a small (therapeutic) dose that extends to organs other than the target",
+        "The primary therapeutic effect of a drug",
+        "A genetic mutation induced by a drug",
+        "A beneficial effect not related to the drug’s main action"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Secondary effects refer to:",
+      "options": [
+        "Direct toxic effects due to overdose",
+        "Adverse effects consequent to the normal therapeutic action of the drug",
+        "An idiosyncratic reaction",
+        "Allergic reactions only"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "5. Drug toxicity is best described as:",
+      "options": [
+        "Unintended beneficial effects",
+        "Adverse effects caused by a large (toxic) dose of a drug",
+        "A decrease in drug efficacy over time",
+        "An immune-mediated reaction"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "6. Which of the following is an example of drug toxicity?",
+      "options": [
+        "Hypoglycemia induced by an insulin overdose",
+        "A mild headache after taking a pain reliever",
+        "Allergic skin rash from penicillin",
+        "A slight drowsiness from an antihistamine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Drug intolerance is defined as:",
+      "options": [
+        "An exaggerated response to a small therapeutic dose of a drug",
+        "A complete lack of response to a drug",
+        "An expected side effect at high doses",
+        "A beneficial effect observed in a few patients"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. What does tolerance refer to in pharmacology?",
+      "options": [
+        "An increased responsiveness to a drug over time",
+        "A failure of responsiveness to the usual dose of a drug after repeated administration",
+        "An allergic reaction to a drug",
+        "A genetic predisposition to enhanced drug effects"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9. Which of the following is a mechanism of acquired tolerance?",
+      "options": [
+        "Increased intestinal absorption",
+        "Enhanced renal excretion, enzyme induction, and receptor downregulation",
+        "Increased plasma protein binding",
+        "Improved drug stability"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. What does 'down regulation' mean?",
+      "options": [
+        "An increase in the number of receptors",
+        "A decrease in the number of receptors due to prolonged drug exposure",
+        "A change in receptor type",
+        "An increase in drug absorption"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "11. Idiosyncrasy in drug reactions is due to:",
+      "options": [
+        "A typical side effect in most patients",
+        "A congenital abnormal reaction due to genetic enzyme deficiencies",
+        "A result of drug overdose",
+        "A predictable pharmacodynamic effect"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "12. Tachyphylaxis refers to:",
+      "options": [
+        "A slow development of tolerance over weeks",
+        "An acute, rapid development of tolerance with diminishing responses to repeated doses",
+        "A genetic predisposition to drug reactions",
+        "A type of drug hypersensitivity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "13. Cross-tolerance is defined as:",
+      "options": [
+        "Tolerance to one drug that does not affect related drugs",
+        "Tolerance to one drug that confers tolerance to a related drug",
+        "An increase in drug sensitivity",
+        "A decrease in drug absorption"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "14. Tissue tolerance refers to:",
+      "options": [
+        "Tolerance in a specific tissue, where certain drug effects are diminished",
+        "A systemic increase in drug sensitivity",
+        "Tolerance that occurs only in the liver",
+        "Complete resistance to drug effects"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. What is drug dependence?",
+      "options": [
+        "A physical and/or psychological reliance on a drug",
+        "A form of allergic reaction",
+        "A transient side effect",
+        "A mechanism of drug absorption"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. How does addiction differ from habituation?",
+      "options": [
+        "Addiction involves both psychological and physical dependence, whereas habituation is primarily psychological",
+        "They are the same",
+        "Habituation involves severe withdrawal symptoms, addiction does not",
+        "Addiction only occurs in children"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Drug hypersensitivity (allergy) is characterized by:",
+      "options": [
+        "A predictable dose-dependent effect",
+        "An acquired abnormal immune reaction where the drug acts as an antigen",
+        "A genetic deficiency in drug metabolism",
+        "A beneficial immunomodulatory effect"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. Which type of adverse drug reaction is considered unpredictable and dose-independent?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type C",
+        "Type D"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. Type D adverse drug reactions are best described as:",
+      "options": [
+        "Immediate reactions after drug administration",
+        "Delayed adverse effects occurring after a latent period",
+        "Effects due to overdose",
+        "Rebound effects upon drug withdrawal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "20. Type E adverse drug reactions refer to:",
+      "options": [
+        "Side effects at therapeutic doses",
+        "Withdrawal adverse effects occurring when a drug is abruptly stopped",
+        "Adverse effects due to genetic abnormalities",
+        "Immediate allergic reactions"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "21. Type C adverse drug reactions are:",
+      "options": [
+        "Dose-dependent effects occurring with continuous drug use",
+        "Unpredictable allergic reactions",
+        "Rebound effects upon withdrawal",
+        "Genetic idiosyncrasies"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Which of the following is an example of a teratogenic effect?",
+      "options": [
+        "Congenital malformations induced by cytotoxic drugs during early pregnancy",
+        "An allergic reaction to penicillin",
+        "Tolerance to morphine",
+        "A rebound effect after corticosteroid withdrawal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Carcinogenicity in the context of adverse drug reactions means:",
+      "options": [
+        "A drug induces cancer after long-term use",
+        "A drug causes immediate tissue necrosis",
+        "A drug increases the number of white blood cells",
+        "A drug has a high therapeutic index"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. A rebound effect occurs when:",
+      "options": [
+        "A drug is continued for a long period",
+        "A drug is abruptly stopped, resulting in symptoms opposite to its effects",
+        "A drug is given in very low doses",
+        "Two drugs cancel each other out"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "25. An example of a rebound adverse effect is:",
+      "options": [
+        "Corticosteroid withdrawal leading to Addisonian crisis",
+        "Mild headache from an antihistamine",
+        "Increased appetite from a stimulant",
+        "No adverse effect upon stopping the drug"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Continuous adverse effects (Type C) occur:",
+      "options": [
+        "Immediately after a single dose",
+        "After a latent period following drug withdrawal",
+        "During the continuous, long-term use of a drug",
+        "Only in genetically predisposed individuals"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "27. Enzyme induction contributes to tolerance by:",
+      "options": [
+        "Decreasing drug metabolism",
+        "Increasing drug metabolism and reducing plasma drug levels",
+        "Enhancing drug absorption",
+        "Increasing receptor sensitivity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Decreased intestinal absorption in tolerance leads to:",
+      "options": [
+        "Higher plasma drug levels",
+        "Lower plasma drug levels and diminished effect",
+        "No change in drug effect",
+        "Increased drug toxicity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "29. Increased renal excretion contributes to tolerance by:",
+      "options": [
+        "Decreasing the drug's plasma concentration",
+        "Increasing drug bioavailability",
+        "Enhancing receptor binding",
+        "Prolonging the drug's effect"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Which of the following drugs is commonly associated with hypersensitivity reactions?",
+      "options": [
+        "Penicillin",
+        "Acetaminophen",
+        "Ibuprofen",
+        "Lisinopril"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Genetic deficiencies in drug-metabolizing enzymes can lead to:",
+      "options": [
+        "Enhanced drug clearance",
+        "Idiosyncratic reactions",
+        "Increased drug absorption",
+        "No significant clinical effects"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "32. Type B adverse drug reactions are characterized by:",
+      "options": [
+        "Predictable, dose-dependent effects",
+        "Unpredictable, dose-independent reactions",
+        "Continuous effects from long-term use",
+        "Rebound effects upon withdrawal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "33. In predictable adverse effects, the severity is generally:",
+      "options": [
+        "Unrelated to the dose",
+        "Directly related to the drug dose and duration",
+        "Only influenced by genetic factors",
+        "Completely random"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. What is the relationship between drug dose and predictable adverse effects?",
+      "options": [
+        "Higher doses typically result in more pronounced adverse effects",
+        "Dose has no impact on adverse effects",
+        "Lower doses always cause severe adverse effects",
+        "Adverse effects are only related to the route of administration"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Drug interactions can lead to adverse effects by:",
+      "options": [
+        "Altering the pharmacokinetics or pharmacodynamics of drugs",
+        "Only affecting drug excretion",
+        "Enhancing the immune response exclusively",
+        "Reducing drug solubility in water"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Understanding adverse drug reactions is clinically important because it helps to:",
+      "options": [
+        "Optimize drug therapy and prevent patient harm",
+        "Increase drug marketing",
+        "Eliminate the need for monitoring",
+        "Reduce the cost of medication only"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. An example of an adverse effect due to long-term drug use is:",
+      "options": [
+        "Osteoporosis from chronic corticosteroid use",
+        "Immediate anaphylaxis from penicillin",
+        "Acute gastrointestinal upset",
+        "Transient headache"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Withdrawal adverse effects (Type E) occur when:",
+      "options": [
+        "A drug is administered continuously",
+        "A drug is abruptly stopped, leading to a rebound reaction",
+        "A drug is taken in a single dose",
+        "There is no prior exposure to the drug"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "39. Adverse drug reactions due to genetic enzyme deficiencies are an example of:",
+      "options": [
+        "Type A reactions",
+        "Idiosyncrasy",
+        "Drug dependence",
+        "Tolerance"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "40. Which statement best summarizes adverse drug reactions (ADRs)?",
+      "options": [
+        "ADRs are harmful, unintended effects of drugs that can be predictable or unpredictable and are influenced by dose, duration, and patient-specific factors",
+        "ADRs only occur in overdose situations",
+        "ADRs are exclusively immune-mediated",
+        "ADRs have no clinical impact on patient management"
+      ],
+      "correct": 0
+    }
+  ]
+}
