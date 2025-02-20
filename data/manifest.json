@@ -13,7 +13,8 @@
             {"title": "Pharmacodynamics 1", "path": "data/first_year/pharmacology/lec5_pharmacodynamics_1.json"},
             {"title": "Pharmacodynamics 2", "path": "data/first_year/pharmacology/lec6_pharmacodynamics_2.json"},
             {"title": "Drug Interaction", "path": "data/first_year/pharmacology/lec7_drug_interaction.json"},
-            {"title": "Adverse Drug Reaction", "path": "data/first_year/pharmacology/lec8_adverse_drug_reaction.json"}
+            {"title": "Adverse Drug Reaction", "path": "data/first_year/pharmacology/lec8_adverse_drug_reaction.json"},
+            {"title": "Sympathomimetics", "path": "data/first_year/pharmacology/lec9_10_sympathomimetics.json"}
           ]
         },
         {
