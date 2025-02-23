@@ -1,0 +1,405 @@
+{
+  "title": "Repair",
+  "questions": [
+    {
+      "question": "1. What is tissue repair?",
+      "options": [
+        "The replacement of damaged tissue by new healthy tissue",
+        "The accumulation of scar tissue without regeneration",
+        "The process of cell death",
+        "A temporary inflammatory response"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Which of the following best describes regeneration?",
+      "options": [
+        "Replacement of damaged tissue by connective tissue",
+        "Replacement of damaged tissue by new cells of the same type",
+        "Formation of fibrous scar tissue",
+        "An irreversible process leading to loss of function"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. What does fibrosis refer to in the context of repair?",
+      "options": [
+        "Complete regeneration of tissue",
+        "Replacement of damaged tissue by connective tissue (scar formation)",
+        "Formation of new parenchymal cells",
+        "Rapid cell division with no scar formation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "4. Which type of repair occurs when the injured tissue is replaced by the same tissue type?",
+      "options": [
+        "Regeneration",
+        "Fibrosis",
+        "Necrosis",
+        "Calcification"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Labile cells are characterized by:",
+      "options": [
+        "Continuous division",
+        "Inability to divide after birth",
+        "Slow division only under special conditions",
+        "Permanent non-dividing status"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Which of the following is an example of a labile cell?",
+      "options": [
+        "Surface epithelial cells",
+        "Cardiac muscle cells",
+        "Nerve cells",
+        "Skeletal muscle cells"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Stable cells are defined as:",
+      "options": [
+        "Cells that continuously divide",
+        "Cells that do not normally divide but can do so in response to injury",
+        "Cells that never divide postnatally",
+        "Cells that are replaced by fibrosis only"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "8. Which of the following is an example of stable cells?",
+      "options": [
+        "Liver parenchymal cells",
+        "Skin epidermal cells",
+        "Hematopoietic cells",
+        "Nerve cells"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Permanent cells are characterized by:",
+      "options": [
+        "Their ability to divide continuously",
+        "Their inability to regenerate after injury",
+        "Rapid regenerative capacity",
+        "Constant turnover in normal life"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. Which cell type is considered permanent?",
+      "options": [
+        "Fibroblasts",
+        "Lymphoid cells",
+        "Cardiac muscle cells",
+        "Surface epithelial cells"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "11. When the tissue framework remains intact after injury, healing is most likely to occur by:",
+      "options": [
+        "Regeneration",
+        "Fibrosis",
+        "Necrosis",
+        "Calcification"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. When the tissue framework is severely damaged, repair occurs by:",
+      "options": [
+        "Regeneration of the same tissue",
+        "Replacement by connective tissue (fibrosis)",
+        "Complete tissue necrosis with no repair",
+        "Rapid re-epithelialization"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "13. What is healing by regeneration?",
+      "options": [
+        "Restoration of the injured area by new cells of the same type",
+        "Replacement of damaged tissue by fibrous scar",
+        "Formation of granulation tissue only",
+        "A process that always leads to fibrosis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. What is granulation tissue?",
+      "options": [
+        "Dense fibrous tissue with no cellular elements",
+        "Pink, soft, granular tissue formed by proliferating fibroblasts and new capillaries in a loose extracellular matrix",
+        "An accumulation of necrotic debris",
+        "A type of permanent scar tissue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "15. Which process is a key component of angiogenesis during repair?",
+      "options": [
+        "Basement membrane degradation",
+        "Immediate epithelial cell division",
+        "Fibroblast apoptosis",
+        "Neutrophil lysis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. What is the first step in the process of angiogenesis?",
+      "options": [
+        "Proliferation of endothelial cells",
+        "Degradation of the basement membrane of parent vessels",
+        "Migration of endothelial cells",
+        "Maturation of capillary tubes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "17. Fibrogenesis in wound healing involves:",
+      "options": [
+        "Proliferation of fibroblasts and deposition of extracellular matrix proteins, especially collagen",
+        "Rapid regeneration of epithelial cells",
+        "Formation of granulation tissue without collagen deposition",
+        "Neutrophilic infiltration only"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Remodeling during wound healing refers to:",
+      "options": [
+        "The initial inflammatory response",
+        "Maturation of granulation tissue into a dense, fibrous scar with regression of capillaries",
+        "Formation of new epithelial cells",
+        "Immediate wound contraction without collagen deposition"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. A mature scar is mainly composed of:",
+      "options": [
+        "Loose collagen and many capillaries",
+        "Dense type I collagen, few capillaries, and inactive fibroblasts",
+        "Active granulation tissue with abundant inflammatory cells",
+        "Epithelial cells only"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "20. Healing by first intention (primary union) is characterized by:",
+      "options": [
+        "A large amount of granulation tissue and wound contraction",
+        "Clean wound edges that are approximated, minimal granulation tissue, and a neat linear scar",
+        "A chronic inflammatory response",
+        "An unorganized repair process"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "21. Healing by second intention (secondary union) typically involves:",
+      "options": [
+        "Minimal inflammation and rapid epithelialization",
+        "Extensive granulation tissue formation, wound contraction, and scarring",
+        "Immediate regeneration without fibrosis",
+        "No inflammatory response"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "22. Which of the following is a systemic factor that influences wound healing?",
+      "options": [
+        "Infection at the wound site",
+        "Age and nutritional status",
+        "Mechanical stress on the wound",
+        "Foreign body presence"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "23. Which of the following is a local factor affecting wound healing?",
+      "options": [
+        "Circulatory status",
+        "Hormonal imbalances",
+        "Mechanical factors such as early wound movement",
+        "Systemic diseases"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "24. Which complication may result from excessive collagen deposition during wound healing?",
+      "options": [
+        "Complete regeneration without scar",
+        "Keloid formation",
+        "Rapid resolution of the wound",
+        "Improved tissue function"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "25. What causes wound contraction during healing?",
+      "options": [
+        "Increased epithelial cell proliferation",
+        "Contractile activity of myofibroblasts",
+        "Excessive inflammatory cell infiltration",
+        "Rapid collagen degradation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "26. Keloids are characterized by:",
+      "options": [
+        "A neat, linear scar with minimal tissue overgrowth",
+        "Excess collagen deposition forming a raised scar that often recurs",
+        "Complete regeneration of tissue",
+        "An absence of collagen deposition"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "27. Myofibroblasts contribute to wound healing by:",
+      "options": [
+        "Secreting collagen directly",
+        "Contracting the wound and reducing its size",
+        "Inhibiting angiogenesis",
+        "Causing increased inflammation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Which hormone can negatively affect wound healing by reducing collagen synthesis?",
+      "options": [
+        "Insulin",
+        "Glucocorticoids",
+        "Thyroxine",
+        "Epinephrine"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "29. Adequate nutrition, particularly vitamin C, is essential for wound healing because it:",
+      "options": [
+        "Is necessary for collagen synthesis",
+        "Directly increases blood flow",
+        "Stimulates rapid cell division",
+        "Reduces infection risk by acting as an antibiotic"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Fibrosis of an inflamed joint can lead to:",
+      "options": [
+        "Joint ankylosis",
+        "Increased joint mobility",
+        "Immediate pain relief",
+        "Enhanced regeneration of cartilage"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Adhesions between serous membranes due to fibrosis can result in:",
+      "options": [
+        "Improved organ mobility",
+        "Formation of unwanted fibrous connections causing functional impairment",
+        "Complete tissue regeneration",
+        "Rapid resolution of inflammation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "32. Inadequate blood supply to a wound will most likely lead to:",
+      "options": [
+        "Accelerated healing",
+        "Delayed healing and poor scar formation",
+        "Enhanced granulation tissue formation",
+        "No significant change in healing"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "33. Infection is a local factor that can delay wound healing by:",
+      "options": [
+        "Promoting rapid epithelialization",
+        "Disrupting collagen deposition and prolonging inflammation",
+        "Enhancing fibroblast activity",
+        "Stimulating angiogenesis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. Which statement best describes regeneration?",
+      "options": [
+        "Complete restoration of tissue architecture without scar formation",
+        "Replacement of damaged tissue by fibrous scar",
+        "An uncontrolled cell proliferation process",
+        "A process that always leads to permanent loss of function"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Which statement best describes fibrosis?",
+      "options": [
+        "Replacement of damaged tissue by cells of the same type",
+        "Replacement of damaged tissue by connective tissue resulting in scar formation",
+        "Rapid tissue regeneration with restoration of normal function",
+        "A reversible process with no long-term consequences"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. What is the primary role of macrophages in tissue repair?",
+      "options": [
+        "They produce collagen directly",
+        "They clear debris and secrete growth factors to stimulate repair",
+        "They cause additional tissue damage",
+        "They inhibit the healing process"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. In acute liver injury, if the extracellular framework is intact, the liver heals by:",
+      "options": [
+        "Fibrosis leading to cirrhosis",
+        "Regeneration of liver cells",
+        "Formation of an abscess",
+        "Immediate necrosis without repair"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "38. In chronic liver injury with disturbance of the extracellular framework, healing results in:",
+      "options": [
+        "Complete regeneration",
+        "Fibrosis and development of cirrhosis",
+        "Rapid return to normal function",
+        "No repair at all"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "39. Which of the following is a systemic factor that influences wound healing?",
+      "options": [
+        "Age and nutritional status",
+        "Wound size",
+        "Local mechanical stress",
+        "Presence of foreign bodies"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Which statement is false about healing by primary union (first intention)?",
+      "options": [
+        "It results in a neat linear scar",
+        "It involves minimal granulation tissue formation",
+        "It occurs in clean, uninfected wounds with approximated edges",
+        "It is characterized by exuberant granulation tissue filling the wound gap"
+      ],
+      "correct": 3
+    }
+  ]
+}
