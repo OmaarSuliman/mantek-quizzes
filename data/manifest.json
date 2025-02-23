@@ -30,7 +30,8 @@
             {"title": "Chronic Inflammation", "path": "data/first_year/pathology/lec8_chronic_inflammation.json"},
             {"title": "Granulomatous Inflammation", "path": "data/first_year/pathology/lec9_granulomatous_inflammation.json"},
             {"title": "Tuberculosis", "path": "data/first_year/pathology/lec10_tuberculosis.json"},
-            {"title": "Bilharziasis", "path": "data/first_year/pathology/lec11_bilharziasis.json"}
+            {"title": "Bilharziasis", "path": "data/first_year/pathology/lec11_bilharziasis.json"},
+            {"title": "Repair", "path": "data/first_year/pathology/lec12_repair.json"}
           ]
         }
       ]
