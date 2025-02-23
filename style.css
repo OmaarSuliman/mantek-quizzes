@@ -229,6 +229,7 @@ footer {
   border-radius: 8px;
   margin: 10px 20px;
   overflow: scroll;
+  transition: 0.5s ease;
 }
 .year-header {
   background: var(--card-bg);
@@ -240,10 +241,10 @@ footer {
 .subject-container {
   max-height: 0;
   overflow: scroll;
-  transition: max-height 0.5s ease;
+  transition: 0.5s ease;
 }
 .subject-container.open {
-  max-height: 10000px;
+  min-height: 500px;
 }
 .subject-group {
   border-top: 1px solid var(--border-default);
@@ -259,7 +260,7 @@ footer {
 .quiz-list-container {
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.5s ease;
+  transition: 0.5s ease;
 }
 .quiz-list-container.open {
   max-height: 500px;
