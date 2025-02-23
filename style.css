@@ -239,7 +239,7 @@ footer {
 }
 .subject-container {
   max-height: 0;
-  overflow: hidden;
+  overflow: scroll;
   transition: max-height 0.5s ease;
 }
 .subject-container.open {
