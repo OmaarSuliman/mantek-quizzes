@@ -243,7 +243,7 @@ footer {
   transition: max-height 0.5s ease;
 }
 .subject-container.open {
-  max-height: 1000px;
+  max-height: 10000px;
 }
 .subject-group {
   border-top: 1px solid var(--border-default);
