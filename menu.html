@@ -127,16 +127,30 @@
             subjectDiv.appendChild(quizList);
             subjectContainer.appendChild(subjectDiv);
             
+            // Toggle the quiz list dynamically with a slight drop down effect
             subjectHeader.addEventListener('click', () => {
-              quizList.classList.toggle('open');
+              if (quizList.classList.contains('open')) {
+                quizList.style.maxHeight = "0px";
+                quizList.classList.remove('open');
+              } else {
+                quizList.style.maxHeight = quizList.scrollHeight + "px";
+                quizList.classList.add('open');
+              }
             });
           });
           
           yearDiv.appendChild(subjectContainer);
           container.appendChild(yearDiv);
           
+          // Toggle the subject container dynamically with a slight drop down effect
           yearHeader.addEventListener('click', () => {
-            subjectContainer.classList.toggle('open');
+            if (subjectContainer.classList.contains('open')) {
+              subjectContainer.style.maxHeight = "0px";
+              subjectContainer.classList.remove('open');
+            } else {
+              subjectContainer.style.maxHeight = subjectContainer.scrollHeight + "px";
+              subjectContainer.classList.add('open');
+            }
           });
         });
       })
