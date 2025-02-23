@@ -32,7 +32,7 @@
             {"title": "Tuberculosis", "path": "data/first_year/pathology/lec10_tuberculosis.json"},
             {"title": "Bilharziasis", "path": "data/first_year/pathology/lec11_bilharziasis.json"},
             {"title": "Repair", "path": "data/first_year/pathology/lec12_repair.json"},
-            {"title": "Ischemia & Infraction", "path": "data/first_year/pathology/lec13_ischemia_and_infraction.json"}
+            {"title": "Ischemia & Infraction", "path": "data/first_year/pathology/lec13_ ischemia_and_infarction.json"}
           ]
         }
       ]
