@@ -228,7 +228,7 @@ footer {
   border: 1px solid var(--border-default);
   border-radius: 8px;
   margin: 10px 20px;
-  overflow: hidden;
+  overflow: scroll;
 }
 .year-header {
   background: var(--card-bg);
