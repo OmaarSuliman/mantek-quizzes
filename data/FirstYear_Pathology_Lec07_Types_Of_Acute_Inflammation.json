@@ -1,0 +1,405 @@
+{
+  "title": "Types of Acute Inflammation",
+  "questions": [
+    {
+      "question": "1. What is acute inflammation?",
+      "options": [
+        "A chronic tissue response",
+        "A rapid, short-term inflammatory response to an irritant",
+        "A type of allergic reaction",
+        "A process with no vascular changes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2. What is the primary aim of the inflammatory response?",
+      "options": [
+        "To promote tissue necrosis",
+        "To localize and eliminate the irritant and prepare for repair",
+        "To cause systemic infection",
+        "To delay tissue healing"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. Which suffix is commonly used to denote inflammation?",
+      "options": [
+        "-ectomy",
+        "-itis",
+        "-osis",
+        "-pathy"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "4. What distinguishes suppurative inflammation from non-suppurative inflammation?",
+      "options": [
+        "Presence of pus formation in suppurative inflammation",
+        "Presence of fibrin deposition in suppurative inflammation",
+        "Suppurative inflammation lacks leukocytes",
+        "Non-suppurative inflammation always involves necrosis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. What is an abscess?",
+      "options": [
+        "A diffuse inflammatory process",
+        "A localized collection of pus in a tissue cavity",
+        "A type of chronic inflammation",
+        "An allergic reaction"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "6. Which organism is commonly associated with abscess formation?",
+      "options": [
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae",
+        "Mycobacterium tuberculosis",
+        "Escherichia coli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. What are the two zones of an abscess?",
+      "options": [
+        "Central necrosis and peripheral acute inflammatory zone",
+        "Fibrotic capsule and granulation tissue",
+        "Epithelial lining and vascular proliferation",
+        "Central hemorrhage and peripheral edema"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. What is the main component of pus?",
+      "options": [
+        "Red blood cells",
+        "Dead polymorphonuclear leukocytes",
+        "Fibroblasts",
+        "Lymphocytes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9. Which of the following is characteristic of the composition of pus?",
+      "options": [
+        "It is thin and watery",
+        "It is thick, creamy, and contains dead neutrophils",
+        "It is composed mainly of plasma proteins",
+        "It is colorless"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. What is a furuncle?",
+      "options": [
+        "A diffuse inflammatory process",
+        "A small abscess related to a hair follicle",
+        "A type of allergic reaction",
+        "A non-suppurative inflammation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "11. What is a carbuncle?",
+      "options": [
+        "A solitary abscess",
+        "A cluster of interconnected abscesses with multiple draining sinuses",
+        "A type of serous inflammation",
+        "A non-suppurative process"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "12. What is the key difference between diffuse and localized suppurative inflammation?",
+      "options": [
+        "Diffuse suppurative inflammation involves widespread cellulitis, while localized forms form discrete abscesses",
+        "There is no difference",
+        "Localized suppurative inflammation is more severe",
+        "Diffuse inflammation always forms abscesses"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. What is cellulitis?",
+      "options": [
+        "A localized abscess",
+        "A diffuse suppurative inflammation of the subcutaneous tissue",
+        "A type of non-suppurative inflammation",
+        "A chronic inflammatory process"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "14. Which type of non-suppurative inflammation is characterized by exudates rich in mucin?",
+      "options": [
+        "Catarrhal inflammation",
+        "Serous inflammation",
+        "Fibrinous inflammation",
+        "Hemorrhagic inflammation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. What characterizes serous inflammation?",
+      "options": [
+        "Exudate rich in fibrin",
+        "Exudate that is thin and watery",
+        "Presence of pus",
+        "Severe tissue necrosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "16. Fibrinous inflammation is primarily characterized by:",
+      "options": [
+        "Exudate rich in fibrin deposition",
+        "Mucin-rich exudate",
+        "Absence of inflammatory cells",
+        "Only serous fluid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. What is serofibrinous inflammation?",
+      "options": [
+        "Inflammation with exudate that is purely serous",
+        "Inflammation with exudate containing both serous fluid and fibrin",
+        "Inflammation with pus formation",
+        "Inflammation without any fibrin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. What does pseudomembranous inflammation refer to?",
+      "options": [
+        "Inflammation with a true membranous structure",
+        "Inflammation with a false membrane composed of fibrin and necrotic debris",
+        "A type of suppurative inflammation",
+        "A chronic inflammatory process"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. What is necrotizing inflammation?",
+      "options": [
+        "Inflammation that leads to tissue death",
+        "Inflammation with pus formation",
+        "A non-inflammatory process",
+        "Inflammation that results in fibrosis only"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Which type of inflammation is associated with an allergic reaction?",
+      "options": [
+        "Suppurative inflammation",
+        "Allergic inflammation",
+        "Fibrinous inflammation",
+        "Hemorrhagic inflammation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "21. What characterizes hemorrhagic inflammation?",
+      "options": [
+        "Exudate rich in red blood cells due to capillary damage",
+        "Absence of blood",
+        "Only serous fluid is present",
+        "Formation of pus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Which enzyme secreted by Staphylococcus aureus contributes to abscess formation?",
+      "options": [
+        "Hyaluronidase",
+        "Coagulase",
+        "Collagenase",
+        "Lysozyme"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "23. How does coagulase contribute to abscess formation?",
+      "options": [
+        "By dissolving fibrinogen",
+        "By converting fibrinogen to fibrin, localizing the infection",
+        "By inhibiting leukocyte migration",
+        "By increasing capillary permeability"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "24. What role do chemotactic substances play in abscess formation?",
+      "options": [
+        "They reduce leukocyte migration",
+        "They attract leukocytes to the site of infection",
+        "They cause immediate tissue repair",
+        "They neutralize bacterial toxins"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "25. During abscess formation, polymorphonuclear leukocytes (PNLs) primarily:",
+      "options": [
+        "Phagocytose bacteria and release enzymes, leading to pus formation",
+        "Form fibrous tissue",
+        "Differentiate into macrophages",
+        "Decrease in number"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. How does an abscess enlarge over time?",
+      "options": [
+        "By rapid healing",
+        "By further necrosis and liquefaction of tissue",
+        "By decreasing leukocyte migration",
+        "By immediate drainage"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "27. What is the consequence of increased osmotic pressure inside an abscess?",
+      "options": [
+        "It leads to resolution of the abscess",
+        "It causes further absorption of fluid, increasing tension and pain",
+        "It reduces the size of the abscess",
+        "It has no clinical significance"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. What is a sinus tract in the context of abscess complications?",
+      "options": [
+        "A passage connecting an abscess cavity to the skin surface",
+        "A type of chronic abscess",
+        "An area of granulation tissue only",
+        "A pathway for blood drainage"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. What is a fistula related to an abscess?",
+      "options": [
+        "A blind-ended tract",
+        "A tract connecting an abscess cavity to a hollow organ or between two organs",
+        "A type of abscess",
+        "A complication that always resolves spontaneously"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. What is the significance of granulation tissue in abscess healing?",
+      "options": [
+        "It indicates unresolved infection",
+        "It represents new connective tissue formation aiding in healing",
+        "It prevents abscess drainage",
+        "It causes further necrosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "31. Catarrhal inflammation is primarily associated with which type of exudate?",
+      "options": [
+        "Serous exudate",
+        "Mucin-rich exudate",
+        "Fibrinous exudate",
+        "Purulent exudate"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "32. In serous inflammation, the exudate is typically:",
+      "options": [
+        "Thick and creamy",
+        "Thin and watery",
+        "Rich in fibrin",
+        "Containing pus cells"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "33. Which of the following is a common site for serous inflammation?",
+      "options": [
+        "Lung alveoli in lobar pneumonia",
+        "Serous membranes such as the pleura",
+        "Subcutaneous tissue",
+        "Joint synovium"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. Fibrinous exudate is primarily composed of:",
+      "options": [
+        "Mucin",
+        "Fibrin",
+        "Serum",
+        "Pus cells"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "35. Serofibrinous inflammation differs from fibrinous inflammation by:",
+      "options": [
+        "Having no fibrin",
+        "Containing both serous fluid and fibrin",
+        "Being more purulent",
+        "Having a thicker exudate"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. During resolution of inflammation, what typically happens to fibrin?",
+      "options": [
+        "It accumulates indefinitely",
+        "It is degraded and absorbed",
+        "It transforms into pus",
+        "It causes permanent tissue damage"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. Hemorrhagic inflammation is characterized by:",
+      "options": [
+        "Absence of red blood cells",
+        "Exudate rich in red blood cells due to capillary wall damage",
+        "Formation of abscesses",
+        "Predominance of fibrin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "38. Allergic inflammation is typically associated with an exudate rich in:",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Lymphocytes",
+        "Macrophages"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "39. What is the primary difference between localized and diffuse suppurative inflammation?",
+      "options": [
+        "Localized inflammation forms abscesses, while diffuse inflammation, such as cellulitis, does not form a discrete collection",
+        "Diffuse inflammation always leads to abscess formation",
+        "Localized inflammation is less severe",
+        "There is no difference"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Which statement best summarizes the pathogenesis of acute inflammation?",
+      "options": [
+        "It involves both local vascular and cellular changes leading to exudate formation and tissue repair",
+        "It is solely a systemic response",
+        "It does not involve cellular responses",
+        "It only results in tissue necrosis"
+      ],
+      "correct": 0
+    }
+  ]
+}

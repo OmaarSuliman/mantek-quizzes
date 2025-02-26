@@ -1,0 +1,365 @@
+{
+  "title": "Drug Metabolism",
+  "questions": [
+    {
+      "question": "What is drug metabolism?",
+      "options": [
+        "Drug absorption",
+        "Drug elimination",
+        "Drug breakdown and modification",
+        "Drug distribution"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Where does most drug metabolism occur?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Stomach",
+        "Lungs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the primary purpose of drug metabolism?",
+      "options": [
+        "Increase drug absorption",
+        "Convert drugs into a more excretable form",
+        "Enhance drug potency",
+        "Prevent drug toxicity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the most common result of drug metabolism?",
+      "options": [
+        "Conversion to more hydrophilic forms",
+        "Conversion to more lipophilic forms",
+        "Formation of active drugs",
+        "Formation of toxic compounds"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a major site of drug metabolism besides the liver?",
+      "options": [
+        "Skin",
+        "Lungs",
+        "Intestinal wall",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which phase of drug metabolism involves oxidation, reduction, or hydrolysis?",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "Both",
+        "Neither"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which enzyme family is primarily responsible for Phase I metabolism?",
+      "options": [
+        "Transferases",
+        "CYP450 enzymes",
+        "Esterases",
+        "Proteases"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which reaction is NOT part of Phase I metabolism?",
+      "options": [
+        "Oxidation",
+        "Reduction",
+        "Conjugation",
+        "Hydrolysis"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which phase of metabolism involves conjugation reactions?",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "Both",
+        "Neither"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a common Phase II reaction?",
+      "options": [
+        "Oxidation",
+        "Glucuronidation",
+        "Reduction",
+        "Hydrolysis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme is classified as a microsomal enzyme?",
+      "options": [
+        "Esterase",
+        "CYP3A4",
+        "Methyltransferase",
+        "Sulfotransferase"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the most important enzyme in the CYP450 family?",
+      "options": [
+        "CYP2D6",
+        "CYP1A2",
+        "CYP3A4",
+        "CYP2C9"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which phase of drug metabolism typically precedes the other?",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "They occur simultaneously",
+        "Neither is necessary"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which drug undergoes metabolic activation (prodrug to active drug)?",
+      "options": [
+        "Paracetamol",
+        "Prednisone",
+        "Aspirin",
+        "Morphine"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which factor does NOT affect drug metabolism?",
+      "options": [
+        "Age",
+        "Genetics",
+        "Diet",
+        "Color of the drug"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which drug metabolism phase involves cytochrome P450 enzymes?",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "Both",
+        "Neither"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which molecule is often added in Phase II metabolism?",
+      "options": [
+        "Glucuronic acid",
+        "Hydroxyl group",
+        "Methyl group",
+        "Phosphate"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which factor increases the risk of drug toxicity in newborns?",
+      "options": [
+        "Increased CYP450 activity",
+        "Deficient glucuronidation",
+        "Faster renal excretion",
+        "Increased protein binding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What happens to metabolism in elderly individuals?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "No change",
+        "Only affects lipophilic drugs"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a hepatic microsomal enzyme inducer?",
+      "options": [
+        "Chloramphenicol",
+        "Ciprofloxacin",
+        "Erythromycin",
+        "Nicotine"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which type of metabolism results in a toxic metabolite of paracetamol?",
+      "options": [
+        "Phase I oxidation",
+        "Phase II glucuronidation",
+        "Phase II sulfation",
+        "Phase I reduction"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which drug metabolism phase helps in excretion of polar metabolites?",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "Both",
+        "Neither"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the role of CYP3A4 in drug metabolism?",
+      "options": [
+        "Metabolizes most drugs",
+        "Inhibits other enzymes",
+        "Eliminates all lipophilic drugs",
+        "Only processes toxic drugs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which factor can slow drug metabolism?",
+      "options": [
+        "Liver disease",
+        "High protein diet",
+        "Exercise",
+        "Fasting"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which factor increases drug metabolism?",
+      "options": [
+        "Liver disease",
+        "Microsomal enzyme induction",
+        "Malnutrition",
+        "Kidney failure"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme deficiency causes slow acetylation of isoniazid?",
+      "options": [
+        "CYP2C9",
+        "N-acetyltransferase",
+        "Glucuronyl transferase",
+        "Esterase"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of a prodrug?",
+      "options": [
+        "Morphine",
+        "Codeine",
+        "Paracetamol",
+        "Ibuprofen"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which factor can lead to increased drug toxicity?",
+      "options": [
+        "Enzyme induction",
+        "Enzyme inhibition",
+        "Rapid metabolism",
+        "Increased excretion"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which Phase II reaction involves methylation?",
+      "options": [
+        "Glucuronidation",
+        "Sulfation",
+        "Acetylation",
+        "Methylation"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which factor can cause drug-drug interactions via metabolism?",
+      "options": [
+        "CYP450 enzyme inhibition",
+        "Increased renal excretion",
+        "Higher gastric pH",
+        "Food binding"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which enzyme metabolizes codeine into morphine?",
+      "options": [
+        "CYP3A4",
+        "CYP2C9",
+        "CYP2D6",
+        "CYP1A2"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which factor can decrease drug metabolism?",
+      "options": [
+        "Smoking",
+        "Liver failure",
+        "Rifampin",
+        "Alcohol"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which genetic factor can influence metabolism?",
+      "options": [
+        "Blood type",
+        "Height",
+        "CYP polymorphisms",
+        "Hair color"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which drug metabolism pathway is often reduced in neonates?",
+      "options": [
+        "Glucuronidation",
+        "Oxidation",
+        "Sulfation",
+        "Hydrolysis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which enzyme is important for Phase II conjugation?",
+      "options": [
+        "Cytochrome P450",
+        "Transferases",
+        "Oxidases",
+        "Reductases"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which drug metabolite is toxic if not conjugated properly?",
+      "options": [
+        "Paracetamol (NAPQI)",
+        "Ibuprofen",
+        "Aspirin",
+        "Lidocaine"
+      ],
+      "correct": 0
+    }
+  ]
+}
