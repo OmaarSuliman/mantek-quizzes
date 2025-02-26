@@ -60,103 +60,94 @@
         localStorage.setItem('theme', 'dark');
       }
     });
-    
-    /* Expected manifest structure:
-       {
-         "years": [
-           {
-             "year": "First Year",
-             "subjects": [
-               {
-                 "subject": "Pharmacology",
-                 "quizzes": [
-                   { "title": "Drug Absorption", "path": "data/first_year/pharmacology/lec1_drug_absorption.json" },
-                   { "title": "Drug Distribution", "path": "data/first_year/pharmacology/lec2_drug_distribution.json" }
-                 ]
-               },
-               { ... }
-             ]
-           },
-           { ... }
-         ]
-       }
-    */
-    fetch('data/manifest.json')
-      .then(response => response.json())
-      .then(data => {
+        // New filename parser
+    function parseFilename(filename) {
+      const parts = filename.split('_');
+      return {
+        year: parts[0],
+        subject: parts[1],
+        lectureNumber: parts[2],
+        lectureTitle: parts.slice(3).join(' ').replace('.json', '')
+      };
+    }
+
+    // Updated organizeQuizzes function
+    function organizeQuizzes(files) {
+      const organizedData = {};
+      files.forEach(file => {
+        const { year, subject, lectureNumber, lectureTitle } = parseFilename(file);
+        if (!organizedData[year]) organizedData[year] = {};
+        if (!organizedData[year][subject]) organizedData[year][subject] = [];
+        
+        organizedData[year][subject].push({
+          title: `${lectureNumber} - ${lectureTitle}`,
+          path: `data/${file}`
+        });
+      });
+      return organizedData;
+    }
+
+    // Fetch and build menu without any accordion behavior
+    fetch('data/')
+      .then(response => response.text())
+      .then(text => {
+        const parser = new DOMParser();
+        const htmlDoc = parser.parseFromString(text, 'text/html');
+        const files = Array.from(htmlDoc.querySelectorAll('a'))
+          .map(link => link.textContent)
+          .filter(file => file.endsWith('.json'));
+
+        const organizedData = organizeQuizzes(files);
         const container = document.getElementById('year-dropdown');
-        data.years.forEach(yearGroup => {
+
+        Object.entries(organizedData).forEach(([year, subjects]) => {
           const yearDiv = document.createElement('div');
           yearDiv.className = 'year-group';
-          
+
           const yearHeader = document.createElement('div');
           yearHeader.className = 'year-header';
-          yearHeader.textContent = yearGroup.year;
-          yearDiv.appendChild(yearHeader);
+          yearHeader.textContent = year;
           
           const subjectContainer = document.createElement('div');
           subjectContainer.className = 'subject-container';
-          
-          yearGroup.subjects.forEach(subject => {
+
+          Object.entries(subjects).forEach(([subject, quizzes]) => {
             const subjectDiv = document.createElement('div');
             subjectDiv.className = 'subject-group';
-            
+
             const subjectHeader = document.createElement('div');
             subjectHeader.className = 'subject-header';
-            subjectHeader.textContent = subject.subject;
-            subjectDiv.appendChild(subjectHeader);
-            
+            subjectHeader.textContent = subject;
+
             const quizList = document.createElement('div');
             quizList.className = 'quiz-list-container';
-            // List individual quizzes
-            subject.quizzes.forEach(quiz => {
+
+            quizzes.forEach(quiz => {
               const quizLink = document.createElement('a');
-              quizLink.href = 'quiz.html?file=' + encodeURIComponent(quiz.path);
-              quizLink.textContent = quiz.title;
               quizLink.className = 'quiz-link';
+              quizLink.href = `quiz.html?file=${encodeURIComponent(quiz.path)}`;
+              quizLink.textContent = quiz.title;
               quizList.appendChild(quizLink);
             });
-            // Add a combined quiz entry for the subject:
-            let combinedFiles = subject.quizzes.map(q => q.path).join(',');
+
+            // Combined quiz link
             const combinedLink = document.createElement('a');
-            combinedLink.href = 'quiz.html?files=' + encodeURIComponent(combinedFiles);
-            combinedLink.textContent = subject.subject + " (Combined)";
             combinedLink.className = 'quiz-link combined';
+            combinedLink.href = `quiz.html?files=${encodeURIComponent(quizzes.map(q => q.path).join(','))}`;
+            combinedLink.textContent = `${subject} (Combined)`;
             quizList.appendChild(combinedLink);
-            
-            subjectDiv.appendChild(quizList);
+
+            subjectDiv.append(subjectHeader, quizList);
             subjectContainer.appendChild(subjectDiv);
-            
-            // Toggle the quiz list dynamically with a slight drop down effect
-            subjectHeader.addEventListener('click', () => {
-              if (quizList.classList.contains('open')) {
-                quizList.style.maxHeight = "0px";
-                quizList.classList.remove('open');
-              } else {
-                quizList.style.maxHeight = quizList.scrollHeight + "px";
-                quizList.classList.add('open');
-              }
-            });
           });
-          
-          yearDiv.appendChild(subjectContainer);
+
+          yearDiv.append(yearHeader, subjectContainer);
           container.appendChild(yearDiv);
-          
-          // Toggle the subject container dynamically with a slight drop down effect
-          yearHeader.addEventListener('click', () => {
-            if (subjectContainer.classList.contains('open')) {
-              subjectContainer.style.maxHeight = "0px";
-              subjectContainer.classList.remove('open');
-            } else {
-              subjectContainer.style.maxHeight = subjectContainer.scrollHeight + "px";
-              subjectContainer.classList.add('open');
-            }
-          });
         });
       })
-      .catch(error => {
-        console.error("Error loading manifest:", error);
-        document.getElementById('menu-container').innerHTML = "<p>Error loading manifest.</p>";
+      .catch(error => console.error('Error:', error));
+
+
       });
   </script>
 </body>
