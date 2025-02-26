@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <!-- Header -->
+    <!-- Header -->
   <header id="header">
     <div class="logo">
       <a href="https://mantek-med.vercel.app/">
@@ -28,21 +28,14 @@
       </span>
     </label>
   </header>
-
   <main id="menu-container">
-    <div id="year-dropdown">
-    </div>
+    <div id="year-dropdown"></div>
   </main>
 
-  <footer>
-    &copy; <span id="current-year"></span> khomod inc. All rights reserved.
-  </footer>
+  <footer>&copy; <span id="current-year"></span> khomod inc. All rights reserved.</footer>
 
   <script>
-    // Set current year
-    document.getElementById('current-year').textContent = new Date().getFullYear();
-    
-    // Theme toggle with localStorage
+        // Theme toggle with localStorage
     const themeToggle = document.getElementById('theme-toggle');
     const currentTheme = localStorage.getItem('theme') || 'dark';
     if (currentTheme === 'light') {
@@ -57,8 +50,9 @@
         document.body.classList.remove('light-mode');
         localStorage.setItem('theme', 'dark');
       }
-    });
-        // New filename parser
+    })
+
+    // New filename parser
     function parseFilename(filename) {
       const parts = filename.split('_');
       return {
@@ -148,6 +142,5 @@
     // Set the current year in the footer.
     document.getElementById('current-year').textContent = new Date().getFullYear();
   </script>
-
 </body>
 </html>
