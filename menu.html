@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lecture Quizzes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+  <header id="header">
+    <div class="logo">
+      <a href="https://mantek-med.vercel.app/">
+        <img src="Assets/mantek.svg" alt="Logo">
+      </a>
+    </div>
+    <div class="title">Lecture Quizzes</div>
+    <label class="toggle-switch">
+      <input type="checkbox" id="theme-toggle">
+      <span class="slider">
+        <span class="icon icon-sun">
+          <img src="Assets/sun.svg" alt="Sun">
+        </span>
+        <span class="icon icon-moon">
+          <img src="Assets/moon.svg" alt="Moon">
+        </span>
+        <span class="knob"></span>
+      </span>
+    </label>
+  </header>
+  <main id="menu-container">
+    <div id="year-dropdown"></div>
+  </main>
+
+  <footer>&copy; <span id="current-year"></span> khomod inc. All rights reserved.</footer>
+
+  <script>
+        // Theme toggle with localStorage
+    const themeToggle = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme') || 'dark';
+    if (currentTheme === 'light') {
+      document.body.classList.add('light-mode');
+      themeToggle.checked = true;
+    }
+    themeToggle.addEventListener('change', () => {
+      if (themeToggle.checked) {
+        document.body.classList.add('light-mode');
+        localStorage.setItem('theme', 'light');
+      } else {
+        document.body.classList.remove('light-mode');
+        localStorage.setItem('theme', 'dark');
+      }
+    })
+
+    // New filename parser
+    function parseFilename(filename) {
+      const parts = filename.split('_');
+      return {
+        year: parts[0],
+        subject: parts[1],
+        lectureNumber: parts[2],
+        lectureTitle: parts.slice(3).join(' ').replace('.json', '')
+      };
+    }
+
+    // Updated organizeQuizzes function
+    function organizeQuizzes(files) {
+      const organizedData = {};
+      files.forEach(file => {
+        const { year, subject, lectureNumber, lectureTitle } = parseFilename(file);
+        if (!organizedData[year]) organizedData[year] = {};
+        if (!organizedData[year][subject]) organizedData[year][subject] = [];
+        
+        organizedData[year][subject].push({
+          title: `${lectureNumber} - ${lectureTitle}`,
+          path: `data/${file}`
+        });
+      });
+      return organizedData;
+    }
+
+    // Fetch and build menu without any accordion behavior
+    fetch('data/')
+      .then(response => response.text())
+      .then(text => {
+        const parser = new DOMParser();
+        const htmlDoc = parser.parseFromString(text, 'text/html');
+        const files = Array.from(htmlDoc.querySelectorAll('a'))
+          .map(link => link.textContent)
+          .filter(file => file.endsWith('.json'));
+
+        const organizedData = organizeQuizzes(files);
+        const container = document.getElementById('year-dropdown');
+
+        Object.entries(organizedData).forEach(([year, subjects]) => {
+          const yearDiv = document.createElement('div');
+          yearDiv.className = 'year-group';
+
+          const yearHeader = document.createElement('div');
+          yearHeader.className = 'year-header';
+          yearHeader.textContent = year;
+          
+          const subjectContainer = document.createElement('div');
+          subjectContainer.className = 'subject-container';
+
+          Object.entries(subjects).forEach(([subject, quizzes]) => {
+            const subjectDiv = document.createElement('div');
+            subjectDiv.className = 'subject-group';
+
+            const subjectHeader = document.createElement('div');
+            subjectHeader.className = 'subject-header';
+            subjectHeader.textContent = subject;
+
+            const quizList = document.createElement('div');
+            quizList.className = 'quiz-list-container';
+
+            quizzes.forEach(quiz => {
+              const quizLink = document.createElement('a');
+              quizLink.className = 'quiz-link';
+              quizLink.href = `quiz.html?file=${encodeURIComponent(quiz.path)}`;
+              quizLink.textContent = quiz.title;
+              quizList.appendChild(quizLink);
+            });
+
+            // Combined quiz link
+            const combinedLink = document.createElement('a');
+            combinedLink.className = 'quiz-link combined';
+            combinedLink.href = `quiz.html?files=${encodeURIComponent(quizzes.map(q => q.path).join(','))}`;
+            combinedLink.textContent = `${subject} (Combined)`;
+            quizList.appendChild(combinedLink);
+
+            subjectDiv.append(subjectHeader, quizList);
+            subjectContainer.appendChild(subjectDiv);
+          });
+
+          yearDiv.append(yearHeader, subjectContainer);
+          container.appendChild(yearDiv);
+        });
+      })
+      .catch(error => console.error('Error:', error));
+
+    // Set the current year in the footer.
+    document.getElementById('current-year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
