@@ -72,6 +72,10 @@ header .title {
   text-overflow: ellipsis;
 }
 
+.centered {
+  justify-content: center;
+}
+
 /* Toggle switch styling (neutral) */
 .toggle-switch {
   position: relative;
@@ -223,28 +227,25 @@ footer {
   font-size: 0.9em;
 }
 
-/* Menu page accordion styling (by year and subject) */
+/* Menu page list styling modifications (static list, dark mode intact) */
 .year-group {
   border: 1px solid var(--border-default);
   border-radius: 8px;
   margin: 10px 20px;
-  overflow: scroll;
-  transition: 0.5s ease;
+  overflow: hidden;
+  transition: none;
 }
 .year-header {
   background: var(--card-bg);
   padding: 10px;
-  cursor: pointer;
+  cursor: default;
   font-weight: bold;
   border-bottom: 1px solid var(--border-default);
 }
 .subject-container {
-  max-height: 0;
-  overflow: scroll;
-  transition: 0.5s ease;
-}
-.subject-container.open {
-  min-height: 500px;
+  max-height: none;
+  overflow: hidden;
+  transition: none;
 }
 .subject-group {
   border-top: 1px solid var(--border-default);
@@ -253,17 +254,14 @@ footer {
 .subject-header {
   background: var(--card-bg);
   padding: 10px;
-  cursor: pointer;
+  cursor: default;
   font-weight: bold;
   border-bottom: 1px solid var(--border-default);
 }
 .quiz-list-container {
-  max-height: 0;
-  overflow: hidden;
-  transition: 0.5s ease;
-}
-.quiz-list-container.open {
-  max-height: 500px;
+  max-height: none;
+  overflow: visible;
+  transition: none;
 }
 .quiz-link {
   display: block;
