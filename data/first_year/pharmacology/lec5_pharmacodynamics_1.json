@@ -1,0 +1,405 @@
+{
+  "title": "Pharmacodynamics I",
+  "questions": [
+    {
+      "question": "1. What is pharmacodynamics?",
+      "options": [
+        "The study of drug absorption and distribution",
+        "The study of the effects of drugs on the body",
+        "The study of drug excretion",
+        "The study of drug metabolism"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2. What does 'affinity' refer to in pharmacodynamics?",
+      "options": [
+        "The ability of a drug to produce a response",
+        "The strength of the interaction between a drug and its receptor",
+        "The speed of drug metabolism",
+        "The amount of drug needed to achieve a response"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. How is 'intrinsic activity' defined?",
+      "options": [
+        "The ability of a drug to bind to its receptor",
+        "The ability of a drug-receptor complex to evoke a response",
+        "The rate at which a drug is cleared",
+        "The measure of drug potency"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "4. What does 'efficacy' measure?",
+      "options": [
+        "The maximum response a drug can produce",
+        "The speed of drug absorption",
+        "The binding strength to a receptor",
+        "The half-life of a drug"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. What is meant by 'potency' in drug action?",
+      "options": [
+        "The maximum effect a drug can produce",
+        "The concentration of a drug required to produce a given effect",
+        "The rate of drug metabolism",
+        "The affinity of a drug for its receptor"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "6. What is the most common mechanism by which most drugs exert their effects?",
+      "options": [
+        "Interference with cell division",
+        "Inhibition of enzyme activity",
+        "Interaction with cell receptors",
+        "Physical adsorption"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "7. Which receptor type is a ligand-gated ion channel?",
+      "options": [
+        "G-protein coupled receptor",
+        "Ionotropic receptor",
+        "Enzyme-linked receptor",
+        "Intracellular receptor"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "8. Which receptor type is associated with G-protein coupled mechanisms?",
+      "options": [
+        "Ligand-gated ion channels",
+        "G-protein coupled receptors",
+        "Enzyme-linked receptors",
+        "Intracellular receptors"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9. Which receptor type is characterized as enzyme-linked?",
+      "options": [
+        "G-protein coupled receptors",
+        "Ligand-gated ion channels",
+        "Enzyme-linked receptors",
+        "Nuclear receptors"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "10. Where are intracellular receptors typically located?",
+      "options": [
+        "On the cell surface",
+        "Within the cytoplasm or nucleus",
+        "In the extracellular matrix",
+        "On the mitochondrial membrane"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "11. What is an agonist?",
+      "options": [
+        "A drug that binds to a receptor and produces a maximal response",
+        "A drug that blocks receptor activity",
+        "A drug that partially activates a receptor",
+        "A drug that destroys receptors"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. What is an antagonist?",
+      "options": [
+        "A drug that activates a receptor to produce a response",
+        "A drug that inhibits the action of an agonist",
+        "A drug that enhances the intrinsic activity of a receptor",
+        "A drug that mimics the effect of an agonist"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "13. What is a partial agonist?",
+      "options": [
+        "A drug that produces a full response at high doses",
+        "A drug that produces no response",
+        "A drug that binds with good affinity but elicits a submaximal response",
+        "A drug that blocks receptor activity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "14. How do competitive antagonists function?",
+      "options": [
+        "They bind irreversibly to receptors",
+        "They compete with agonists for the same receptor binding site",
+        "They enhance the effect of agonists",
+        "They degrade the receptor"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "15. What distinguishes non-competitive antagonists from competitive antagonists?",
+      "options": [
+        "Non-competitive antagonists bind reversibly",
+        "Non-competitive antagonists bind to a different site or irreversibly and are not overcome by increasing agonist concentration",
+        "Non-competitive antagonists always increase receptor activation",
+        "Non-competitive antagonists have higher potency than agonists"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "16. Which parameter is crucial for determining the strength of a drug-receptor interaction?",
+      "options": [
+        "Potency",
+        "Efficacy",
+        "Affinity",
+        "Intrinsic activity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "17. Which parameter determines the maximum effect a drug can produce?",
+      "options": [
+        "Affinity",
+        "Potency",
+        "Efficacy",
+        "Intrinsic activity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "18. A drug with high intrinsic activity will:",
+      "options": [
+        "Bind strongly but produce little response",
+        "Produce a maximal response upon binding",
+        "Require a high dose to be effective",
+        "Have a low therapeutic index"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. A drug with low potency means that:",
+      "options": [
+        "It produces a high response at a low dose",
+        "It requires a higher dose to produce a given response",
+        "It has a high affinity for the receptor",
+        "It is ineffective"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "20. Which characteristic is associated with a full agonist?",
+      "options": [
+        "High efficacy and rapid dissociation",
+        "Low efficacy and slow dissociation",
+        "No intrinsic activity",
+        "Irreversible binding"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. A drug with little or no efficacy when bound to a receptor is classified as:",
+      "options": [
+        "An agonist",
+        "An antagonist",
+        "A partial agonist",
+        "A competitive inhibitor"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "22. Rapid dissociation of a drug from its receptor implies:",
+      "options": [
+        "A prolonged duration of action",
+        "A short duration of receptor occupancy",
+        "High potency",
+        "Irreversible binding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "23. The term 'drug-receptor complex' refers to:",
+      "options": [
+        "A drug attached to its receptor, leading to a cellular response",
+        "A complex formed only during drug metabolism",
+        "A receptor that degrades the drug",
+        "A mechanism of drug excretion"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Competitive antagonism can be overcome by:",
+      "options": [
+        "Increasing the concentration of the agonist",
+        "Decreasing receptor numbers",
+        "Prolonging drug exposure",
+        "Increasing the dose of the antagonist"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Non-competitive antagonists cause a reduction in receptor function by:",
+      "options": [
+        "Competing for the same binding site",
+        "Altering receptor structure or binding irreversibly",
+        "Increasing agonist concentration",
+        "Enhancing intrinsic activity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "26. Which of the following is a mechanism of drug action that does NOT involve receptor binding?",
+      "options": [
+        "Physical adsorption",
+        "Agonism",
+        "Antagonism",
+        "Partial agonism"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. An example of physical action of a drug is:",
+      "options": [
+        "Enzyme inhibition",
+        "Adsorption by kaolin and pectin in diarrhea treatment",
+        "Receptor activation",
+        "Metabolic interference"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Chemical action of a drug may involve:",
+      "options": [
+        "Neutralization of stomach acid by antacids",
+        "Inhibition of cell division",
+        "Binding to G-protein coupled receptors",
+        "Inducing enzyme synthesis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Drugs that interfere with cell division are typically used as:",
+      "options": [
+        "Antibiotics",
+        "Cytotoxic agents in cancer therapy",
+        "Analgesics",
+        "Anti-inflammatory agents"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. Enzyme inhibitors in pharmacotherapy work by:",
+      "options": [
+        "Enhancing receptor activation",
+        "Reducing the activity of specific enzymes",
+        "Increasing drug clearance",
+        "Blocking drug absorption"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "31. Which mechanism is the most common for producing a therapeutic effect?",
+      "options": [
+        "Interference with enzyme activity",
+        "Action on cell receptors",
+        "Physical adsorption",
+        "Direct metabolic interference"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "32. Efficacy in pharmacodynamics refers to:",
+      "options": [
+        "The ability of a drug to produce a maximal response",
+        "The speed of drug absorption",
+        "The binding affinity for the receptor",
+        "The drug's solubility"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. How does intrinsic activity differ from efficacy?",
+      "options": [
+        "They are identical concepts",
+        "Intrinsic activity refers to the response per receptor occupancy, while efficacy is the maximal response",
+        "Intrinsic activity is about receptor binding, and efficacy is about drug metabolism",
+        "There is no difference"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. Receptor affinity primarily affects:",
+      "options": [
+        "The duration of the drug's effect",
+        "The strength of the drug-receptor interaction",
+        "The maximal response produced",
+        "The speed of drug clearance"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "35. The dose required to produce a given response is mainly determined by:",
+      "options": [
+        "Drug efficacy",
+        "Drug potency",
+        "Drug affinity",
+        "Intrinsic activity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. Why is receptor classification important in pharmacodynamics?",
+      "options": [
+        "It determines the metabolic rate of the drug",
+        "It helps predict the cellular response to a drug",
+        "It defines the drug's excretion pathway",
+        "It is not important"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. Which receptor type is known for rapid signal transduction?",
+      "options": [
+        "Nuclear receptors",
+        "G-protein coupled receptors",
+        "Enzyme-linked receptors",
+        "Intracellular receptors"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "38. The relationship between drug concentration and receptor occupancy is best described as:",
+      "options": [
+        "Linear",
+        "Inverse",
+        "Dose-dependent",
+        "Unrelated"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "39. A partial agonist differs from a full agonist by:",
+      "options": [
+        "Having lower efficacy despite similar affinity",
+        "Having no receptor affinity",
+        "Binding irreversibly",
+        "Producing a higher maximal response"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Which statement best summarizes receptor-mediated drug action?",
+      "options": [
+        "Drugs bind to receptors to produce a range of responses depending on their affinity, intrinsic activity, efficacy, and potency",
+        "All drugs produce the same response regardless of receptor interaction",
+        "Only antagonists interact with receptors",
+        "Receptor binding is not important in drug action"
+      ],
+      "correct": 0
+    }
+  ]
+}

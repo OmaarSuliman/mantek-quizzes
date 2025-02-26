@@ -1,0 +1,405 @@
+{
+  "title": "Drug Interaction",
+  "questions": [
+    {
+      "question": "1. What is the definition of a drug interaction?",
+      "options": [
+        "A biological response when more than one drug is administered simultaneously",
+        "The process of drug absorption",
+        "A side effect unique to a single drug",
+        "The metabolism of a drug in the liver"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Drug interactions can be broadly divided into which two categories?",
+      "options": [
+        "Pharmacokinetic and pharmacodynamic interactions",
+        "Receptor and non-receptor interactions",
+        "Pre-administration and post-administration interactions",
+        "Absorption and excretion interactions"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "3. Which type of interaction occurs before drug administration?",
+      "options": [
+        "Pharmacokinetic interactions inside the body",
+        "Interactions during pharmaceutical formulation or mixing",
+        "Pharmacodynamic interactions at receptor sites",
+        "None of the above"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "4. Mixing calcium chloride with tetracyclines may result in:",
+      "options": [
+        "Enhanced drug absorption",
+        "Formation of an insoluble chelate and inactivation of the tetracycline",
+        "Increased efficacy of tetracycline",
+        "No significant interaction"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "5. An example of a pre-administration drug interaction is:",
+      "options": [
+        "Calcium lactate interfering with tetracycline during formulation",
+        "Atropine affecting gastric motility",
+        "Rifampicin inducing hepatic enzymes",
+        "Probenecid inhibiting renal secretion of penicillin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Protamine sulfate, when mixed with heparin prior to administration, causes:",
+      "options": [
+        "Enhanced anticoagulation",
+        "Neutralization of heparin’s effect",
+        "Increased blood clotting",
+        "No change in heparin activity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "7. Which of the following interactions occurs after drug administration?",
+      "options": [
+        "Mixing drugs during formulation",
+        "Pharmacokinetic and pharmacodynamic interactions within the body",
+        "Simple chemical inactivation outside the body",
+        "None of the above"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "8. Changes in gastric motility affect which phase of pharmacokinetics?",
+      "options": [
+        "Distribution",
+        "Absorption",
+        "Metabolism",
+        "Excretion"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9. Which drug increases gastric motility, thereby affecting drug absorption?",
+      "options": [
+        "Atropine",
+        "Metoclopramide",
+        "Rifampicin",
+        "Cimetidine"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. Atropine’s effect on gastric motility is to:",
+      "options": [
+        "Increase it",
+        "Decrease it",
+        "Have no effect",
+        "Enhance intestinal absorption"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "11. Diarrhea affects drug absorption by:",
+      "options": [
+        "Increasing absorption",
+        "Decreasing absorption due to rapid transit",
+        "Altering drug metabolism",
+        "Enhancing drug distribution"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "12. Increased gastric acidity enhances the absorption of which type of drugs?",
+      "options": [
+        "Weak acids (e.g., aspirin)",
+        "Weak bases (e.g., atropine)",
+        "Neutral drugs",
+        "Large protein drugs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Intestinal alkalinity increases the absorption of:",
+      "options": [
+        "Weak acids",
+        "Weak bases (e.g., ephedrine)",
+        "Proteins",
+        "Large molecules"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "14. Food-induced increases in gastric juice can decrease the absorption of which drug?",
+      "options": [
+        "Ampicillin",
+        "Propranolol",
+        "Atropine",
+        "Ephedrine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Increased bile secretion promotes absorption of:",
+      "options": [
+        "Water-soluble drugs",
+        "Fat-soluble drugs",
+        "Weak acids",
+        "Weak bases"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "16. Binding or chelation between drugs, such as tetracyclines with Mg or Ca, results in:",
+      "options": [
+        "Enhanced absorption",
+        "Formation of insoluble complexes and reduced absorption",
+        "Increased drug metabolism",
+        "Improved drug distribution"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "17. Activated charcoal can affect drug absorption by:",
+      "options": [
+        "Increasing drug solubility",
+        "Adsorbing drugs like sulphonamides and aspirin",
+        "Enhancing drug distribution",
+        "Stimulating drug metabolism"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. In drug distribution, only the free fraction of a drug is:",
+      "options": [
+        "Pharmacologically active",
+        "Bound to plasma proteins",
+        "Inert and inactive",
+        "Responsible for toxicity only"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. When one drug displaces another from plasma protein binding sites, the consequence is:",
+      "options": [
+        "A decrease in free drug levels",
+        "An increase in free drug levels with enhanced activity or toxicity",
+        "No change in drug activity",
+        "A reduction in drug metabolism"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "20. Which of the following is an example of a displacement interaction?",
+      "options": [
+        "Cimetidine increasing the plasma level of an oral anticoagulant",
+        "Atropine decreasing gastric motility",
+        "Metoclopramide increasing absorption",
+        "Rifampicin inducing hepatic enzymes"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. The main site for drug metabolism in the body is:",
+      "options": [
+        "The kidney",
+        "The liver",
+        "The intestine",
+        "The lung"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "22. Which drug is a well-known enzyme inducer?",
+      "options": [
+        "Cimetidine",
+        "Ketoconazole",
+        "Rifampicin",
+        "Atropine"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "23. Enzyme induction results in:",
+      "options": [
+        "Increased activity of co-administered drugs",
+        "Decreased drug levels due to increased metabolism",
+        "Inhibition of drug absorption",
+        "Enhanced plasma protein binding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "24. Which drug is an example of an enzyme inhibitor?",
+      "options": [
+        "Phenytoin",
+        "Cimetidine",
+        "Rifampicin",
+        "Phenobarbitone"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "25. Enzyme inhibitors increase the effects of other drugs by:",
+      "options": [
+        "Enhancing drug clearance",
+        "Reducing drug metabolism",
+        "Increasing drug absorption",
+        "Lowering plasma protein binding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "26. In the excretion phase, a drug interaction may occur due to:",
+      "options": [
+        "Increased drug absorption",
+        "Competition for active renal tubular secretion",
+        "Enhanced hepatic metabolism",
+        "Decreased receptor binding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "27. Probenecid affects the excretion of penicillin by:",
+      "options": [
+        "Increasing its metabolism",
+        "Inhibiting its renal tubular secretion",
+        "Enhancing its absorption",
+        "Displacing it from plasma proteins"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Changes in urinary pH can influence drug excretion by:",
+      "options": [
+        "Altering drug solubility in the kidneys",
+        "Modifying receptor activity",
+        "Increasing hepatic enzyme activity",
+        "Enhancing drug absorption"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Pharmacodynamic interactions occur at the level of:",
+      "options": [
+        "Drug absorption",
+        "Cell receptors or physiological systems",
+        "Renal excretion",
+        "Hepatic metabolism"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. A competitive antagonist is best described as a substance that:",
+      "options": [
+        "Binds irreversibly to a receptor",
+        "Binds to the same receptor as an agonist and its effect can be overcome by increasing the agonist concentration",
+        "Binds to a different receptor than the agonist",
+        "Enhances the agonist response"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "31. An example of a non-competitive antagonist is:",
+      "options": [
+        "Atropine",
+        "Propranolol",
+        "Phenoxybenzamine",
+        "Epinephrine"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "32. What is physiological antagonism?",
+      "options": [
+        "Drugs with opposing actions acting on the same receptor",
+        "Drugs with opposing actions acting on different receptors in the same physiological system",
+        "A chemical reaction between two drugs",
+        "A type of synergism"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "33. Chemical antagonism occurs when:",
+      "options": [
+        "Two drugs compete for the same receptor",
+        "One drug chemically reacts with another to form an inactive compound",
+        "A drug enhances the effect of another",
+        "Two drugs produce an additive effect"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. Synergism in drug interactions means:",
+      "options": [
+        "The net effect is equal to the sum of the individual effects",
+        "The net effect is greater than the sum of the individual effects",
+        "The net effect is less than the sum of the individual effects",
+        "There is no combined effect"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "35. Potentiation occurs when:",
+      "options": [
+        "Both drugs have no effect",
+        "One drug, which has no apparent action on its own, increases the effect of another drug",
+        "Two drugs cancel each other’s effects",
+        "Both drugs produce an effect that is simply additive"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. Addition or summation in drug interactions refers to:",
+      "options": [
+        "A synergistic effect",
+        "An antagonistic effect",
+        "The resultant effect being the algebraic sum of the individual effects",
+        "A lack of interaction"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "37. Displacement of a drug from its plasma protein binding sites can lead to:",
+      "options": [
+        "A decrease in free drug concentration",
+        "An increase in free drug levels with enhanced activity and potential toxicity",
+        "No change in drug efficacy",
+        "Improved drug metabolism"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "38. When two drugs interact at the receptor level, the result may be:",
+      "options": [
+        "An additive effect",
+        "An antagonistic effect where one drug blocks the effect of the other",
+        "Increased drug excretion",
+        "Enhanced plasma protein binding"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "39. A pharmacokinetic interaction involves:",
+      "options": [
+        "Changes in drug absorption, distribution, metabolism, or excretion",
+        "Direct receptor antagonism",
+        "Only interactions before administration",
+        "None of the above"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Understanding drug interactions is important to:",
+      "options": [
+        "Optimize therapy and avoid adverse effects",
+        "Ensure drugs are administered at the same time",
+        "Minimize drug cost only",
+        "Increase drug potency without side effects"
+      ],
+      "correct": 0
+    }
+  ]
+}
